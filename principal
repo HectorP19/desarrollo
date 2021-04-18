@@ -1,1 +1,111 @@
 
+library(shiny)
+library(shinyjs)
+library(shinymaterial)
+library(shinydashboard)
+
+
+
+ui <- material_page(
+ 
+  useShinyjs(),
+  
+  tags$div(a(img(src = "https://www.servel.cl/wp-content/uploads/2021/04/WhatsApp_Image_2021-04-05_at_11.59.17.jpeg",style="width:100%", height='150px'),href="https://servel.cl")),
+  
+ 
+  
+  include_nav_bar = F,
+  nav_bar_color = "gray",
+  background_color = "white",
+  
+  
+  fluidRow(
+    h3("Calculadora de Fechas Servel"),
+   
+    tags$head(
+      
+      
+      tags$style(HTML("
+      @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+     body {
+    background-image: linear-gradient(to bottom right, white, rgba(255,0,0,0));
+    font-family: Homer Simpson;
+    color: #000000;
+    
+     }
+  
+ 
+  
+
+  
+  #text1{color: red;
+                                 font-size: 15px;
+                                 font-style: italic;
+                                 font-weight: bold;
+                                 
+                                 }
+  
+  
+  
+      h6 {
+       
+        text-align: center;
+        
+      }
+      
+       h3 {
+        
+        text-align: center;
+        
+      }
+      
+      
+      .shiny-input-container {
+      
+        color: #474747;
+      }"))
+    ),
+    
+    h6("Calcula las fechas de abonos a cuenta Servel y a candidato/partido político"),
+    br(),
+   
+    
+    
+    column(12, align="center",
+           div(style="display: inline-block;",a(img(src="https://raw.githubusercontent.com/HectorP19/desarrollo/main/A_P.jpg", height=350, width=450),href="https://servel2021.shinyapps.io/api10102/")),
+           #div(style="display: inline-block;vertical-align:top; width: 155px;",HTML("<br>")),
+           div(style="display: inline-block;",a(img(src="https://github.com/HectorP19/desarrollo/blob/main/A_T.jpg?raw=true", height=350, width=450),href="https://servel2021.shinyapps.io/api10101/"))
+           
+           )
+    
+    
+    
+    
+    )
+  
+  
+  
+  
+  
+)
+
+server <- function(input, output) {
+  runjs("document.getElementById('add').onclick = function() { 
+           window.open('https://servel2021.shinyapps.io/api10101/', '_blank');
+         };"
+  )
+  
+  runjs("document.getElementById('add2').onclick = function() { 
+           window.open('https://servel2021.shinyapps.io/api10102/', '_blank');
+         };"
+  )
+  
+  runjs("document.getElementById('header').onclick = function() { 
+           window.open('https://servel2021.shinyapps.io/api10102/', '_blank');
+         };"
+  )
+  
+  
+}
+
+shinyApp(ui = ui, server = server)
