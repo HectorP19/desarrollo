@@ -1,0 +1,2401 @@
+tipo_eleccion,celula_nombre,usu_nombre,usu_apellido_paterno,usu_apellido_materno,mes_termino,dia_termino,dia_de_semana,cantidad_revisadas_dia,lineas_revisadas_dia
+ALCALDE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,9.0,7.0,2.0,4,68
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,18.0,0.0,1,16
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,5.0,4.0,4,35
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,21.0,3.0,1,41
+ALCALDE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,27.0,2.0,1,49
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,7.0,22.0,4.0,6,2
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,20.0,2.0,6,13
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,13.0,2.0,4,35
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,26.0,1.0,5,57
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,14.0,3.0,6,0
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,30.0,5.0,5,74
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,24.0,2.0,2,0
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,28.0,3.0,8,68
+ALCALDE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,9.0,9.0,4.0,2,0
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,20.0,5.0,1,14
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,18.0,3.0,13,96
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,6.0,5.0,2,12
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,9.0,3.0,5.0,5,33
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,3.0,2.0,10,90
+ALCALDE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,29.0,4.0,2,431
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,22.0,4.0,1,62
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,7.0,3.0,6,89
+ALCALDE,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,9.0,1.0,4,69
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,29.0,4.0,1,4
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,15.0,4.0,2,16
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,8.0,9.0,1.0,1,75
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,26.0,1.0,22,21
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,13.0,2.0,4,198
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,21.0,3.0,12,21
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,16.0,1.0,9,68
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,2.0,1.0,8,125
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,13.0,5.0,4,35
+ALCALDE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,2.0,1.0,1,33
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,30.0,5.0,1,22
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,10.0,2.0,5,31
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,15.0,0.0,4,28
+ALCALDE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,9.0,8.0,3.0,2,22
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,13.0,5.0,1,36
+ALCALDE,Célula 2 (CA),Felipe,Canales,Guzman,8.0,20.0,5.0,2,59
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,9.0,1.0,12,99
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,11.0,3.0,10,36
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,5.0,4.0,1,12
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,11.0,3.0,1,3
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,12.0,4.0,11,76
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,5.0,4.0,12,102
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,9.0,3.0,5.0,2,16
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,3.0,2.0,8,12
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,12.0,4.0,2,32
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,18.0,0.0,1,60
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,18.0,0.0,1,106
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,21.0,3.0,9,18
+ALCALDE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,1.0,0.0,1,26
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,12.0,4.0,2,34
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,4.0,3.0,12,144
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,7.0,20.0,2.0,3,4
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,29.0,4.0,8,63
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,16.0,1.0,5,18
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,22.0,4.0,5,154
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,11.0,3.0,5,43
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,27.0,2.0,7,84
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,4.0,3.0,14,55
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,15.0,4.0,2,79
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,2.0,1.0,2,34
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,29.0,4.0,6,37
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,6.0,5.0,2,37
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,12.0,4.0,2,29
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,17.0,2.0,8,29
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,18.0,0.0,4,232
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,19.0,1.0,2,13
+ALCALDE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,17.0,2.0,1,0
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,10.0,2.0,1,26
+ALCALDE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,9.0,8.0,3.0,2,27
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,23.0,5.0,2,2
+ALCALDE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,8.0,2.0,1.0,2,230
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,24.0,2.0,1,6
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,13.0,2.0,1,270
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,12.0,1.0,3,224
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,23.0,5.0,23,59
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,2.0,1.0,2,3
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,8.0,4.0,3,14
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,13.0,5.0,1,159
+ALCALDE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,9.0,8.0,3.0,1,9
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,30.0,5.0,3,60
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Bianca,Suazo,Castro,7.0,7.0,3.0,1,154
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,24.0,2.0,6,23
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,14.0,3.0,4,69
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,21.0,3.0,6,12
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,9.0,9.0,4.0,4,5
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,12.0,4.0,5,10
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,9.0,8.0,3.0,1,2
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,13.0,5.0,2,17
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Bianca,Suazo,Castro,7.0,12.0,1.0,4,39
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,7.0,3.0,4,147
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,9.0,8.0,3.0,5,28
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,28.0,3.0,1,13
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,27.0,2.0,5,64
+ALCALDE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,9.0,3.0,5.0,1,0
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,2.0,1.0,4,50
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,11.0,3.0,5,16
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,12.0,1.0,2,85
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,9.0,6.0,1.0,13,79
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,2.0,1.0,11,37
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,9.0,8.0,3.0,4,48
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,20.0,2.0,2,119
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,2.0,1.0,8,46
+ALCALDE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,8.0,2.0,1.0,1,36
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,19.0,1.0,4,74
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,8.0,4.0,1,58
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,8.0,4.0,1,39
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,9.0,7.0,2.0,1,35
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,17.0,2.0,1,11
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,5.0,1.0,3,22
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,18.0,3.0,2,32
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,9.0,6.0,1.0,1,149
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,19.0,1.0,4,42
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,7.0,3.0,6,45
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,13.0,2.0,1,0
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,24.0,2.0,5,38
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,21.0,3.0,2,257
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,8.0,2.0,1.0,2,9
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,13.0,2.0,1,26
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,22.0,4.0,8,7
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,6.0,2.0,3,65
+ALCALDE,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,12.0,4.0,1,12
+ALCALDE,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,10.0,2.0,1,77
+ALCALDE,Célula 2 (CA),Felipe,Canales,Guzman,8.0,12.0,4.0,1,37
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,13.0,5.0,5,31
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,7.0,3.0,2,75
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,23.0,1.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,7.0,3.0,1,38
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,21.0,3.0,5,6
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,23.0,5.0,1,28
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,16.0,1.0,11,89
+ALCALDE,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,18.0,3.0,1,48
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,7.0,20.0,2.0,5,157
+ALCALDE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,11.0,3.0,1,20
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,19.0,4.0,6,41
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,18.0,3.0,1,26
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,26.0,1.0,15,21
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,9.0,7.0,2.0,2,3
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,23.0,1.0,3,39
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,5.0,4.0,6,26
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,29.0,4.0,2,75
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,9.0,5.0,0.0,3,29
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,9.0,3.0,5.0,1,34
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,9.0,7.0,2.0,6,151
+ALCALDE,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,31.0,2.0,2,180
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,9.0,1.0,2,24
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,13.0,5.0,2,121
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,8.0,0.0,2,45
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,27.0,5.0,4,15
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,20.0,5.0,5,63
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,4.0,3.0,1,2
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,11.0,3.0,2,84
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,12.0,1.0,6,136
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,7.0,3.0,5,33
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,21.0,3.0,21,58
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,28.0,3.0,7,6
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,13.0,5.0,2,30
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,10.0,2.0,7,50
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,27.0,2.0,5,17
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,30.0,5.0,3,22
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,4.0,3.0,5,14
+ALCALDE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,15.0,0.0,2,44
+ALCALDE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,28.0,3.0,1,52
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,11.0,3.0,1,29
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,13.0,5.0,2,4
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,9.0,5.0,4,88
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,7.0,3.0,2,42
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,20.0,2.0,3,27
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,7.0,26.0,1.0,3,15
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,4.0,3.0,1,38
+GOBERNADOR REGIONAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,23.0,5.0,1,35
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,14.0,3.0,1,10
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,14.0,3.0,1,186
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,17.0,2.0,2,43
+ALCALDE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,11.0,3.0,2,33
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,9.0,7.0,2.0,3,148
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,9.0,3.0,5.0,3,13
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,27.0,2.0,12,37
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,18.0,3.0,4,92
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,3.0,2.0,7,77
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,22.0,4.0,4,8
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,4.0,3.0,6,64
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,9.0,1.0,1,53
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Bianca,Suazo,Castro,7.0,13.0,2.0,4,141
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,23.0,5.0,10,33
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,9.0,5.0,4,52
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,12.0,4.0,4,33
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,17.0,2.0,1,76
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,2.0,1.0,3,41
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,3.0,2.0,3,14
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,27.0,2.0,14,106
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,23.0,1.0,3,256
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,7.0,19.0,1.0,1,0
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,3.0,2.0,3,21
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,8.0,3.0,2.0,11,195
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,8.0,10.0,2.0,1,34
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,11.0,3.0,1,0
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,29.0,4.0,7,58
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,7.0,3.0,2,0
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,6.0,5.0,3,7
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,7.0,3.0,2,106
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,17.0,2.0,14,124
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,15.0,4.0,1,69
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,11.0,3.0,4,41
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,4.0,3.0,1,42
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,11.0,3.0,8,84
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,2.0,1.0,2,3
+ALCALDE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,9.0,7.0,2.0,4,152
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,2.0,1.0,1,14
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,21.0,3.0,1,48
+ALCALDE,Célula 6 (KM),Eloy,Navarrete,Clavero,9.0,8.0,3.0,3,98
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,21.0,3.0,9,5
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,23.0,1.0,1,38
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,9.0,8.0,3.0,4,77
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,21.0,3.0,4,27
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,27.0,2.0,1,10
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,9.0,7.0,2.0,2,23
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,14.0,3.0,2,119
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,6.0,2.0,6,114
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,6.0,5.0,3,57
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,29.0,4.0,1,9
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,14.0,3.0,1,0
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,20.0,2.0,4,14
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,20.0,5.0,5,36
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,20.0,2.0,6,13
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,6.0,2.0,2,54
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,13.0,5.0,7,34
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,8.0,4.0,1,186
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,11.0,3.0,2,6
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,8.0,1.0,0.0,7,49
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,11.0,3.0,9,23
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,13.0,5.0,15,97
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,15.0,4.0,2,379
+ALCALDE,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,11.0,3.0,1,68
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,18.0,3.0,3,45
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,9.0,8.0,3.0,4,100
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,22.0,4.0,6,8
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,9.0,1.0,3,101
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,16.0,1.0,5,39
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,19.0,1.0,3,110
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,14.0,3.0,2,121
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,2.0,1.0,1,20
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,9.0,6.0,1.0,2,18
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,11.0,0.0,4,79
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,14.0,3.0,6,60
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,9.0,5.0,1,0
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,30.0,5.0,11,79
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,9.0,8.0,3.0,2,107
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,2.0,1.0,6,4
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,17.0,2.0,4,17
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,23.0,5.0,8,296
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,5.0,4.0,1,11
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,2.0,1.0,4,75
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,21.0,3.0,5,9
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,24.0,2.0,2,7
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,12.0,4.0,2,50
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,9.0,6.0,1.0,10,27
+ALCALDE,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,19.0,4.0,2,61
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Felipe,Canales,Guzman,7.0,6.0,2.0,6,20
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,13.0,2.0,2,299
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Bianca,Suazo,Castro,7.0,23.0,5.0,2,9
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,9.0,7.0,2.0,2,13
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,11.0,0.0,4,76
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,4.0,3.0,8,31
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,9.0,6.0,1.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,12.0,1.0,2,53
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,28.0,3.0,13,90
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,15.0,4.0,5,10
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,12.0,4.0,1,18
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,29.0,4.0,6,97
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,16.0,1.0,7,69
+ALCALDE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,10.0,2.0,1,330
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,30.0,5.0,3,7
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Felipe,Canales,Guzman,7.0,15.0,4.0,3,215
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,24.0,2.0,1,25
+ALCALDE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,6.0,5.0,1,3
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,13.0,2.0,2,36
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,17.0,2.0,4,12
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,11.0,3.0,2,26
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,29.0,4.0,6,22
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,29.0,4.0,9,69
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,9.0,8.0,3.0,6,39
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,12.0,1.0,1,42
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,13.0,5.0,2,36
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,29.0,4.0,1,15
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,21.0,3.0,15,39
+ALCALDE,Célula 1 (MB),Yuber Alex,Reyes, Quena,9.0,7.0,2.0,6,112
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,4.0,3.0,6,129
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,22.0,4.0,1,0
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,12.0,4.0,10,131
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,18.0,3.0,4,47
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,9.0,1.0,3,116
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,18.0,3.0,8,77
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,8.0,23.0,1.0,4,25
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,20.0,2.0,4,59
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,18.0,3.0,3,6
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,20.0,2.0,1,9
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,24.0,6.0,1,74
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,5.0,4.0,1,32
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,13.0,5.0,15,99
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,21.0,3.0,16,33
+ALCALDE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,6.0,5.0,1,211
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,28.0,3.0,3,57
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,28.0,3.0,14,42
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,10.0,2.0,3,51
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,20.0,5.0,1,6
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,9.0,7.0,2.0,8,156
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,13.0,5.0,8,44
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,30.0,5.0,2,8
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,18.0,3.0,5,17
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,19.0,4.0,1,21
+ALCALDE,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,9.0,1.0,2,158
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,16.0,1.0,1,29
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,8.0,4.0,5,170
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,31.0,2.0,5,37
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,9.0,5.0,3,18
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,23.0,5.0,4,37
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,29.0,4.0,1,23
+ALCALDE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,27.0,2.0,1,9
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,5.0,4.0,4,230
+ALCALDE,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,13.0,5.0,1,29
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,13.0,5.0,1,30
+ALCALDE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,4.0,3.0,1,9
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,18.0,3.0,6,64
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,2.0,1.0,12,164
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,27.0,2.0,4,26
+ALCALDE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,30.0,5.0,3,62
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,23.0,5.0,2,91
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,9.0,7.0,2.0,3,10
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,23.0,1.0,1,26
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,15.0,4.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,19.0,1.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,8.0,4.0,4,406
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,9.0,1.0,5,104
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,19.0,1.0,1,0
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,28.0,3.0,5,38
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,13.0,2.0,4,80
+ALCALDE,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,24.0,2.0,1,0
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,9.0,3.0,5.0,3,64
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,23.0,5.0,20,28
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,30.0,5.0,8,91
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,16.0,1.0,1,11
+ALCALDE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,5.0,4.0,1,42
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,22.0,4.0,8,4
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,11.0,3.0,5,27
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,22.0,4.0,27,251
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,6.0,5.0,1,0
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,2.0,1.0,3,19
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,14.0,3.0,2,351
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,15.0,4.0,1,58
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,8.0,4.0,6,44
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,8.0,4.0,4,287
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,8.0,4.0,4,24
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,4.0,3.0,5,65
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,20.0,2.0,2,13
+ALCALDE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,6.0,5.0,2,312
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,26.0,1.0,3,20
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,24.0,2.0,1,12
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,15.0,4.0,3,40
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,23.0,5.0,13,32
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,14.0,3.0,3,40
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,19.0,4.0,5,79
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,7.0,3.0,1,2
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,12.0,4.0,4,68
+GOBERNADOR REGIONAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,26.0,1.0,1,0
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,11.0,3.0,12,122
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,9.0,1.0,2,91
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,20.0,5.0,1,0
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,10.0,2.0,2,58
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,17.0,2.0,3,57
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,12.0,4.0,3,20
+ALCALDE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,5.0,4.0,1,19
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,5.0,4.0,4,45
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,20.0,2.0,1,34
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,13.0,5.0,1,61
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,9.0,9.0,4.0,6,71
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,7.0,3.0,2,13
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,15.0,4.0,3,74
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,8.0,4.0,3,36
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,22.0,4.0,49,147
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,2.0,1.0,6,19
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,19.0,1.0,2,31
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,22.0,4.0,11,14
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,13.0,2.0,5,109
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,10.0,2.0,1,84
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,9.0,7.0,2.0,1,27
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,30.0,5.0,1,0
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,19.0,1.0,10,31
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,9.0,1.0,5,21
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,9.0,7.0,2.0,2,88
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,23.0,5.0,7,10
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,6.0,5.0,4,48
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,21.0,3.0,19,56
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,11.0,3.0,1,23
+ALCALDE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,24.0,2.0,2,45
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,24.0,2.0,5,45
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,9.0,3.0,5.0,5,96
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,20.0,2.0,2,102
+ALCALDE,Célula 3 (SS),Elizabeth,Alvarado,Pulido,9.0,9.0,4.0,2,46
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,12.0,4.0,1,33
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,9.0,9.0,4.0,3,61
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,30.0,5.0,6,112
+ALCALDE,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,13.0,5.0,2,0
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,11.0,0.0,1,25
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,19.0,1.0,2,150
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,8.0,4.0,2,29
+ALCALDE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,11.0,3.0,2,120
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,28.0,3.0,9,191
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,12.0,4.0,2,0
+ALCALDE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,8.0,5.0,4.0,1,3
+ALCALDE,Célula 5 (FD),Diego,Retamal,Muñoz,9.0,7.0,2.0,3,89
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,5.0,1.0,3,65
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,28.0,3.0,6,13
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,22.0,4.0,1,24
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,21.0,3.0,4,63
+ALCALDE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,17.0,2.0,2,147
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,8.0,4.0,4,34
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,15.0,4.0,1,175
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,23.0,5.0,11,57
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,29.0,4.0,12,159
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,14.0,3.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,6.0,2.0,2,75
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,26.0,1.0,1,23
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,3.0,2.0,2,178
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,27.0,2.0,7,35
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,2.0,1.0,6,66
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,29.0,4.0,5,37
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,15.0,4.0,1,39
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,11.0,0.0,1,135
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,26.0,1.0,10,51
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,20.0,2.0,1,10
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,29.0,4.0,3,21
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,12.0,4.0,1,68
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,13.0,5.0,6,33
+ALCALDE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,9.0,9.0,4.0,1,40
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,19.0,4.0,2,78
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,13.0,5.0,4,59
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,10.0,2.0,2,88
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,15.0,4.0,22,51
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,28.0,3.0,9,179
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,12.0,4.0,3,70
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,28.0,3.0,13,157
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,15.0,4.0,2,175
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,3.0,2.0,4,48
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,13.0,5.0,5,31
+ALCALDE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,9.0,9.0,4.0,1,7
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,27.0,2.0,10,40
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,3.0,2.0,1,10
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,12.0,4.0,5,73
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,9.0,6.0,1.0,1,60
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,3.0,2.0,3,17
+ALCALDE,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,11.0,3.0,1,380
+ALCALDE,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,18.0,3.0,1,89
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,28.0,3.0,4,36
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,17.0,2.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,7.0,3.0,6,43
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,9.0,1.0,1,108
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,9.0,9.0,4.0,1,12
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,27.0,2.0,10,8
+CONCEJAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,6.0,5.0,5,31
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,16.0,1.0,2,48
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,12.0,1.0,3,55
+ALCALDE,Célula 2 (CA),Felipe,Canales,Guzman,8.0,23.0,1.0,1,15
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,5.0,4.0,7,80
+GOBERNADOR REGIONAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,18.0,3.0,2,3
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,13.0,2.0,1,107
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,12.0,4.0,4,129
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,18.0,0.0,1,190
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,11.0,3.0,1,27
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,21.0,3.0,4,19
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,27.0,2.0,8,62
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,3.0,2.0,1,7
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,29.0,4.0,4,15
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,14.0,3.0,2,11
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,10.0,2.0,1,26
+GOBERNADOR REGIONAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,29.0,4.0,2,190
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,13.0,2.0,2,44
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,26.0,1.0,11,119
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,9.0,7.0,2.0,1,16
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,3.0,2.0,2,61
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,9.0,5.0,1,83
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,8.0,2.0,1.0,11,107
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,6.0,5.0,7,46
+ALCALDE,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,16.0,1.0,1,17
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,28.0,3.0,12,158
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,10.0,2.0,4,81
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,11.0,0.0,2,176
+ALCALDE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,6.0,5.0,2,86
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,2.0,1.0,3,114
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,6.0,2.0,2,55
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,17.0,2.0,1,11
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,9.0,8.0,3.0,2,105
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Felipe,Canales,Guzman,7.0,9.0,5.0,3,89
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,9.0,5.0,4,119
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,9.0,8.0,3.0,6,17
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,9.0,6.0,1.0,1,34
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,10.0,2.0,1,140
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,3.0,2.0,6,65
+ALCALDE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,30.0,5.0,1,9
+ALCALDE,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,12.0,4.0,1,7
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,2.0,1.0,4,29
+GOBERNADOR REGIONAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,9.0,7.0,2.0,2,21
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,4.0,3.0,2,206
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,11.0,3.0,5,66
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,15.0,4.0,2,64
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,19.0,1.0,6,17
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,5.0,4.0,8,40
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,2.0,1.0,1,4
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,21.0,3.0,17,34
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,3.0,2.0,1,2
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,4.0,3.0,8,21
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,9.0,9.0,4.0,1,9
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,3.0,2.0,5,75
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,5.0,4.0,7,68
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,9.0,9.0,4.0,1,16
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,6.0,5.0,1,317
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,12.0,4.0,8,61
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,15.0,4.0,1,12
+ALCALDE,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,9.0,1.0,1,71
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,28.0,3.0,9,111
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,16.0,1.0,3,51
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,26.0,4.0,1,5
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,9.0,9.0,4.0,4,51
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,9.0,1.0,11,94
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,20.0,2.0,2,0
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,18.0,3.0,7,50
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,26.0,1.0,12,34
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,12.0,4.0,14,183
+ALCALDE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,8.0,9.0,1.0,2,58
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,29.0,4.0,3,14
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,26.0,1.0,7,12
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,9.0,6.0,1.0,6,69
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,14.0,6.0,3,10
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,17.0,2.0,2,43
+ALCALDE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,13.0,5.0,1,8
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,13.0,2.0,3,34
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,12.0,1.0,1,136
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,9.0,7.0,2.0,3,34
+ALCALDE,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,4.0,3.0,2,32
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,29.0,4.0,1,0
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,2.0,1.0,3,17
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,16.0,1.0,5,36
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,26.0,1.0,7,32
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,4.0,3.0,3,38
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,17.0,2.0,7,43
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,8.0,5.0,4.0,7,135
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,17.0,2.0,1,15
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,2.0,1.0,6,6
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,18.0,0.0,1,52
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,9.0,6.0,1.0,7,31
+ALCALDE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,9.0,9.0,4.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,13.0,2.0,3,382
+GOBERNADOR REGIONAL,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,22.0,4.0,2,349
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,3.0,2.0,4,30
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,13.0,5.0,1,17
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,15.0,4.0,1,46
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,5.0,4.0,5,17
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,21.0,3.0,7,32
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,27.0,2.0,2,37
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,6.0,5.0,4,52
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,15.0,4.0,2,142
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,12.0,1.0,1,25
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,9.0,9.0,4.0,1,6
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,28.0,3.0,7,26
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,20.0,2.0,3,10
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,16.0,1.0,8,150
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,20.0,2.0,6,18
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,9.0,5.0,2,0
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,26.0,1.0,10,42
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,22.0,4.0,1,4
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,23.0,1.0,2,23
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,17.0,2.0,1,0
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,20.0,5.0,3,36
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,28.0,3.0,1,0
+ALCALDE,Célula 1 (MB),Hector,Guzman,Manterola ,9.0,7.0,2.0,2,3
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,22.0,4.0,6,16
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,9.0,8.0,3.0,1,11
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,11.0,0.0,2,29
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,19.0,4.0,5,34
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,12.0,1.0,1,4
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,26.0,1.0,15,27
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,15.0,4.0,2,32
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,8.0,16.0,1.0,10,98
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,20.0,2.0,6,20
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,9.0,3.0,5.0,4,33
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,7.0,3.0,8,83
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,7.0,3.0,1,53
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,4.0,3.0,1,0
+ALCALDE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,9.0,9.0,4.0,1,20
+ALCALDE,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,5.0,4.0,1,7
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,17.0,2.0,4,44
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,15.0,4.0,2,35
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,11.0,3.0,3,19
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,18.0,3.0,2,4
+ALCALDE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,9.0,8.0,3.0,5,173
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,2.0,1.0,3,16
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,29.0,4.0,17,142
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,20.0,2.0,39,28
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,28.0,3.0,7,31
+ALCALDE,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,3.0,2.0,1,12
+ALCALDE,Célula 5 (FD),Diego,Retamal,Muñoz,9.0,8.0,3.0,4,113
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,11.0,0.0,2,17
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,9.0,8.0,3.0,2,0
+ALCALDE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,20.0,5.0,1,8
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,20.0,2.0,2,131
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,30.0,5.0,12,79
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,11.0,3.0,2,18
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,16.0,1.0,7,73
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,17.0,2.0,3,39
+ALCALDE,Célula 8 (EN),Magaly,Riquelme,Bueno,9.0,8.0,3.0,4,150
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,23.0,5.0,5,25
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,10.0,2.0,9,93
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,7.0,22.0,4.0,4,84
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,5.0,4.0,4,46
+ALCALDE,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,2.0,1.0,1,0
+ALCALDE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,9.0,1.0,2,72
+GOBERNADOR REGIONAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,15.0,4.0,2,0
+ALCALDE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,9.0,7.0,2.0,2,51
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,26.0,1.0,1,55
+GOBERNADOR REGIONAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,26.0,1.0,1,62
+ALCALDE,Célula 2 (CA),Felipe,Canales,Guzman,9.0,8.0,3.0,2,58
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,14.0,3.0,1,43
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,6.0,2.0,3,9
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,28.0,3.0,13,51
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,9.0,1.0,1,47
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,4.0,3.0,2,54
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,27.0,2.0,9,48
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,27.0,2.0,4,93
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,6.0,2.0,6,86
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,15.0,4.0,3,52
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,6.0,5.0,4,97
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,30.0,5.0,10,116
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,7.0,23.0,5.0,28,34
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,20.0,5.0,5,61
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,13.0,2.0,6,107
+ALCALDE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,18.0,3.0,1,13
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,14.0,3.0,1,26
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,3.0,2.0,4,63
+ALCALDE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,9.0,8.0,3.0,1,75
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,3.0,2.0,11,60
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,20.0,5.0,4,85
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,20.0,2.0,20,30
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,9.0,9.0,4.0,9,135
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,9.0,6.0,1.0,1,48
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,2.0,1.0,3,75
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,8.0,4.0,6,51
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,23.0,5.0,5,17
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,29.0,4.0,12,97
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,19.0,4.0,7,24
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,9.0,2.0,4.0,1,0
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,22.0,4.0,1,19
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,7.0,21.0,3.0,1,0
+ALCALDE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,29.0,4.0,1,2
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,23.0,1.0,1,9
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,26.0,1.0,5,28
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,30.0,5.0,8,12
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,11.0,3.0,2,19
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,17.0,2.0,1,20
+ALCALDE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,24.0,2.0,1,28
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,20.0,2.0,3,14
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,17.0,2.0,13,81
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,26.0,1.0,8,24
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,9.0,5.0,2,5
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,9.0,1.0,5,33
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,28.0,3.0,1,6
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,11.0,0.0,2,14
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,20.0,5.0,3,10
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,19.0,1.0,1,377
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,2.0,1.0,1,40
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,9.0,6.0,1.0,1,0
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,19.0,4.0,6,60
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,22.0,4.0,1,0
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,6.0,5.0,8,12
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,17.0,2.0,10,124
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,4.0,3.0,11,64
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,30.0,5.0,4,45
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,5.0,1.0,3,68
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,7.0,3.0,4,306
+ALCALDE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,9.0,7.0,2.0,3,63
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,16.0,1.0,2,17
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,6.0,2.0,6,0
+ALCALDE,Célula 5 (FD),Genesis,Lopez,Fuentes,8.0,2.0,1.0,1,91
+ALCALDE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,9.0,8.0,3.0,3,318
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,6.0,5.0,3,19
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,5.0,4.0,4,57
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,4.0,3.0,3,7
+ALCALDE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,9.0,7.0,2.0,2,67
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,3.0,2.0,8,146
+GOBERNADOR REGIONAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,28.0,3.0,1,218
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,20.0,2.0,10,19
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,28.0,3.0,7,14
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,11.0,0.0,2,35
+GOBERNADOR REGIONAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,20.0,2.0,2,49
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,14.0,3.0,2,112
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,4.0,3.0,4,41
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,23.0,5.0,40,80
+GOBERNADOR REGIONAL,Célula 8 (EN),Magaly,Riquelme,Bueno,9.0,7.0,2.0,1,9
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,16.0,1.0,1,18
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,11.0,3.0,6,32
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,13.0,5.0,1,18
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,27.0,2.0,5,3
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,19.0,1.0,1,29
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,16.0,1.0,7,66
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,16.0,1.0,4,25
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,9.0,5.0,1,18
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,15.0,4.0,4,69
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,17.0,2.0,1,26
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,3.0,2.0,1,31
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,19.0,4.0,4,43
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,9.0,6.0,1.0,5,29
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,9.0,5.0,3,83
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,9.0,5.0,2,0
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,30.0,5.0,7,42
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,5.0,4.0,7,59
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,13.0,2.0,2,118
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,10.0,2.0,1,42
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,8.0,18.0,3.0,2,36
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,12.0,4.0,1,7
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,22.0,4.0,2,17
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,14.0,3.0,1,50
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,19.0,4.0,4,57
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,2.0,1.0,10,60
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,20.0,5.0,2,8
+ALCALDE,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,28.0,3.0,3,109
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,9.0,6.0,1.0,2,12
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,4.0,3.0,4,45
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,9.0,1.0,1,36
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,6.0,2.0,2,15
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,10.0,2.0,4,53
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,23.0,5.0,1,117
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,29.0,4.0,1,19
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,5.0,4.0,4,57
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,7.0,3.0,6,140
+ALCALDE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,9.0,6.0,1.0,1,77
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,2.0,1.0,14,115
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,2.0,1.0,8,106
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,18.0,3.0,4,28
+ALCALDE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,8.0,17.0,2.0,1,236
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,23.0,5.0,5,2
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,20.0,2.0,1,18
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,9.0,1.0,5,61
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,22.0,4.0,14,41
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,30.0,5.0,2,6
+CONCEJAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,9.0,1.0,4,51
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,9.0,1.0,6,67
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,12.0,4.0,1,3
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,15.0,4.0,3,278
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,9.0,6.0,1.0,3,7
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,9.0,7.0,2.0,2,27
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,10.0,2.0,3,122
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,21.0,3.0,6,0
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,9.0,5.0,2,248
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,19.0,1.0,2,69
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,6.0,2.0,4,258
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,7.0,3.0,4,11
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,4.0,3.0,7,94
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,7.0,26.0,1.0,6,2
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,18.0,3.0,1,0
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,21.0,3.0,5,12
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,27.0,2.0,6,41
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,8.0,3.0,2.0,4,286
+ALCALDE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,9.0,8.0,3.0,5,97
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,14.0,3.0,4,92
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,28.0,3.0,8,34
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,1.0,0.0,4,53
+ALCALDE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,10.0,2.0,2,71
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,16.0,1.0,1,31
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,29.0,4.0,4,149
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,17.0,2.0,8,60
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,9.0,3.0,5.0,3,5
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,19.0,4.0,5,31
+ALCALDE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,9.0,2.0,4.0,1,0
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,21.0,3.0,1,18
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,7.0,3.0,2,56
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,12.0,4.0,15,77
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,29.0,4.0,7,65
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,11.0,3.0,5,148
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,2.0,1.0,7,27
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,5.0,1.0,1,0
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,29.0,4.0,7,31
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,28.0,3.0,8,31
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,9.0,9.0,4.0,1,28
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,3.0,2.0,5,55
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,20.0,2.0,1,11
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,5.0,4.0,3,66
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,5.0,4.0,3,89
+ALCALDE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,6.0,5.0,2,63
+ALCALDE,Célula 7 (OC),Bianca,Suazo,Castro,7.0,20.0,2.0,4,53
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,9.0,5.0,1,26
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,17.0,2.0,2,18
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,6.0,5.0,5,47
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,2.0,1.0,1,0
+ALCALDE,Célula 1 (MB),Hector,Guzman,Manterola ,9.0,9.0,4.0,1,11
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,1.0,0.0,2,0
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,28.0,3.0,3,0
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,12.0,4.0,1,42
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,29.0,4.0,2,77
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,23.0,5.0,1,35
+CONCEJAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,3.0,2.0,8,67
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,8.0,6.0,5.0,6,99
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,8.0,4.0,5,66
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,27.0,2.0,8,14
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,23.0,5.0,7,17
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,5.0,4.0,4,42
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,4.0,3.0,5,56
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,11.0,0.0,1,23
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,20.0,2.0,11,12
+ALCALDE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,9.0,6.0,1.0,2,39
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,16.0,1.0,7,75
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,2.0,1.0,7,93
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,18.0,3.0,1,18
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,16.0,1.0,2,15
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,27.0,2.0,6,8
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,24.0,2.0,10,14
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,22.0,4.0,2,11
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,27.0,2.0,12,74
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,21.0,3.0,4,19
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,5.0,4.0,2,29
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,12.0,1.0,3,22
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,11.0,3.0,1,2
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,18.0,3.0,4,24
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,20.0,2.0,1,18
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Felipe,Canales,Guzman,7.0,14.0,3.0,2,105
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,11.0,0.0,2,77
+ALCALDE,Célula 5 (FD),Genesis,Lopez,Fuentes,8.0,3.0,2.0,2,38
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,9.0,6.0,1.0,1,5
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,5.0,1.0,1,9
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,12.0,1.0,5,28
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,5.0,4.0,5,34
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,6.0,2.0,6,156
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,7.0,3.0,4,4
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,26.0,1.0,25,86
+ALCALDE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,18.0,3.0,4,367
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,26.0,1.0,6,12
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,16.0,1.0,4,27
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,7.0,28.0,3.0,6,18
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,9.0,1.0,10,136
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,9.0,7.0,2.0,1,39
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,9.0,3.0,5.0,2,17
+ALCALDE,Célula 8 (EN),Magaly,Riquelme,Bueno,9.0,9.0,4.0,3,164
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,17.0,2.0,4,30
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,11.0,3.0,12,53
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,5.0,4.0,1,6
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,10.0,2.0,5,46
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,17.0,2.0,6,22
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,16.0,1.0,5,37
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,5.0,1.0,2,50
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,3.0,2.0,2,28
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,9.0,8.0,3.0,2,39
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,26.0,1.0,6,49
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,20.0,2.0,4,42
+ALCALDE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,9.0,7.0,2.0,1,5
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,10.0,2.0,2,112
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,9.0,5.0,6,49
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,26.0,1.0,11,104
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,20.0,5.0,5,40
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,3.0,2.0,3,18
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,20.0,2.0,1,7
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,12.0,4.0,3,18
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,30.0,5.0,6,71
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,3.0,2.0,13,73
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,6.0,5.0,6,131
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,25.0,3.0,1,4
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,27.0,2.0,12,38
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,17.0,2.0,6,45
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,6.0,5.0,4,74
+ALCALDE,Célula 5 (FD),Genesis,Lopez,Fuentes,9.0,7.0,2.0,4,83
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,3.0,2.0,3,107
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,15.0,0.0,3,44
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,9.0,8.0,3.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,21.0,3.0,1,136
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,16.0,1.0,5,110
+ALCALDE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,6.0,5.0,1,15
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,6.0,5.0,3,24
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,22.0,4.0,2,0
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,31.0,6.0,1,7
+ALCALDE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,4.0,3.0,1,33
+GOBERNADOR REGIONAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,27.0,2.0,1,24
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,7.0,3.0,3,13
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,9.0,7.0,2.0,1,0
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,2.0,1.0,5,49
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,23.0,5.0,17,30
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,13.0,5.0,1,4
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,8.0,4.0,2,380
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,23.0,5.0,2,4
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,4.0,3.0,1,65
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,6.0,5.0,3,61
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,15.0,4.0,4,59
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,20.0,2.0,1,53
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,5.0,4.0,6,81
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,22.0,4.0,3,25
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,19.0,1.0,1,171
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,24.0,2.0,12,95
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,19.0,1.0,3,4
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,13.0,2.0,3,43
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,23.0,5.0,22,96
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,29.0,4.0,14,35
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,9.0,1.0,9,87
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,4.0,3.0,3,44
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,18.0,3.0,2,34
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,24.0,2.0,2,26
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,22.0,4.0,4,59
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,13.0,2.0,1,75
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,28.0,3.0,15,26
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,11.0,0.0,3,64
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,12.0,4.0,1,36
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,30.0,5.0,3,47
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,26.0,1.0,1,0
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,4.0,3.0,9,79
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,19.0,4.0,9,90
+ALCALDE,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,16.0,1.0,1,103
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,5.0,1.0,1,5
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,28.0,3.0,7,32
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,9.0,5.0,3,45
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,5.0,1.0,2,43
+ALCALDE,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,10.0,2.0,2,58
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,13.0,5.0,7,66
+ALCALDE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,12.0,4.0,1,40
+ALCALDE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,9.0,7.0,2.0,1,32
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,9.0,8.0,3.0,7,77
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,18.0,3.0,1,31
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,23.0,5.0,46,106
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,30.0,5.0,2,87
+ALCALDE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,18.0,3.0,1,0
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,12.0,4.0,1,7
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,7.0,3.0,2,35
+ALCALDE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,9.0,1.0,1,31
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,7.0,3.0,1,30
+ALCALDE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,8.0,2.0,1.0,4,55
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,19.0,1.0,1,79
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,20.0,5.0,7,49
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,6.0,2.0,4,72
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,11.0,3.0,1,131
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,10.0,2.0,1,67
+GOBERNADOR REGIONAL,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,28.0,3.0,2,32
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,4.0,3.0,2,7
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,22.0,4.0,5,0
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,14.0,3.0,2,118
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,27.0,2.0,15,95
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,9.0,1.0,1,15
+GOBERNADOR REGIONAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,22.0,4.0,1,0
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,22.0,4.0,6,11
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,22.0,4.0,6,7
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,14.0,3.0,1,114
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,10.0,2.0,7,50
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,9.0,1.0,1,8
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,6.0,5.0,1,11
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,6.0,2.0,3,43
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,12.0,4.0,6,35
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,6.0,5.0,3,10
+GOBERNADOR REGIONAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,15.0,4.0,1,142
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,2.0,1.0,7,68
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,3.0,2.0,3,9
+ALCALDE,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,25.0,3.0,1,15
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,20.0,5.0,1,18
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,13.0,2.0,2,74
+GOBERNADOR REGIONAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,29.0,4.0,2,0
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,19.0,1.0,5,0
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,14.0,3.0,2,18
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,21.0,3.0,2,34
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,12.0,4.0,2,5
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,13.0,2.0,2,10
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,4.0,3.0,10,81
+ALCALDE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,9.0,1.0,1,0
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,26.0,1.0,10,8
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,30.0,5.0,1,63
+ALCALDE,Célula 9 (GR),Magdalen,Jara,Veloso,9.0,9.0,4.0,1,13
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,19.0,1.0,1,0
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,7.0,29.0,4.0,5,52
+GOBERNADOR REGIONAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,30.0,5.0,1,14
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,5.0,4.0,3,21
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,3.0,2.0,6,27
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,5.0,4.0,8,107
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,9.0,5.0,3,3
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,14.0,3.0,2,15
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,9.0,6.0,1.0,1,19
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,4.0,3.0,6,22
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,9.0,6.0,1.0,1,6
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,14.0,3.0,3,157
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,11.0,3.0,1,11
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,22.0,0.0,1,18
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,26.0,1.0,7,13
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,21.0,3.0,6,2
+GOBERNADOR REGIONAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,19.0,1.0,1,51
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,22.0,4.0,11,36
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,9.0,3.0,5.0,1,2
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,12.0,1.0,5,110
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,14.0,3.0,2,112
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,20.0,5.0,2,8
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,10.0,2.0,2,77
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,28.0,3.0,1,64
+ALCALDE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,19.0,4.0,1,116
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,23.0,5.0,3,146
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,5.0,4.0,4,16
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,5.0,1.0,1,0
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,11.0,3.0,7,73
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,22.0,4.0,1,0
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,9.0,1.0,1,0
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,23.0,5.0,35,76
+GOBERNADOR REGIONAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,6.0,2.0,1,11
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,27.0,5.0,1,58
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,19.0,4.0,4,18
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,8.0,4.0,3.0,8,190
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,12.0,1.0,1,104
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,13.0,2.0,2,37
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,9.0,5.0,5,66
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,21.0,3.0,1,45
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,9.0,5.0,4,215
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,18.0,3.0,4,51
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,23.0,1.0,1,40
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,20.0,2.0,1,38
+ALCALDE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,9.0,9.0,4.0,1,69
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,20.0,2.0,5,10
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,16.0,1.0,5,15
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,9.0,7.0,2.0,1,27
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,27.0,2.0,2,8
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,7.0,21.0,3.0,19,25
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,29.0,4.0,6,89
+ALCALDE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,8.0,4.0,3.0,4,63
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,9.0,3.0,5.0,5,17
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,20.0,5.0,2,0
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,27.0,2.0,11,21
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,9.0,1.0,5,142
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,10.0,2.0,3,21
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,12.0,4.0,1,169
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,5.0,1.0,4,24
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,5.0,4.0,1,29
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,11.0,3.0,8,34
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,18.0,3.0,10,91
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,6.0,2.0,4,17
+ALCALDE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,30.0,5.0,2,163
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,18.0,3.0,2,200
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,9.0,1.0,1,117
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,26.0,1.0,7,30
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,10.0,2.0,3,39
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,7.0,21.0,3.0,4,219
+ALCALDE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,9.0,9.0,4.0,2,45
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,17.0,2.0,10,88
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,10.0,2.0,8,185
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,6.0,5.0,1,4
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,4.0,3.0,4,51
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,2.0,1.0,3,55
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,27.0,2.0,12,63
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,6.0,5.0,8,123
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,9.0,5.0,5,71
+GOBERNADOR REGIONAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,19.0,1.0,1,45
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,9.0,5.0,2,30
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,29.0,4.0,10,91
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,17.0,2.0,6,54
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,9.0,1.0,4,39
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,13.0,5.0,6,17
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,18.0,3.0,1,63
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,18.0,3.0,2,28
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,22.0,4.0,17,34
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,10.0,2.0,2,26
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,29.0,4.0,3,3
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,16.0,1.0,8,36
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,2.0,1.0,17,135
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,19.0,4.0,1,26
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,8.0,3.0,2.0,10,85
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,12.0,4.0,4,25
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,27.0,2.0,9,102
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,9.0,9.0,4.0,1,7
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,13.0,5.0,3,0
+ALCALDE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,3.0,2.0,2,169
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,26.0,1.0,1,7
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,9.0,3.0,5.0,1,4
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,9.0,7.0,2.0,2,7
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,16.0,1.0,1,5
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,21.0,3.0,1,149
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,5.0,4.0,2,91
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,6.0,5.0,10,22
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,15.0,4.0,1,9
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,10.0,2.0,5,54
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,6.0,2.0,2,50
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,10.0,2.0,8,102
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,21.0,3.0,27,60
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,16.0,1.0,6,142
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,13.0,5.0,1,64
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,3.0,2.0,3,42
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,12.0,4.0,2,59
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,12.0,1.0,2,358
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,10.0,2.0,7,67
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,8.0,4.0,2,4
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,27.0,2.0,1,12
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,15.0,4.0,5,117
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,9.0,5.0,3,87
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,27.0,2.0,2,3
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,20.0,2.0,2,0
+GOBERNADOR REGIONAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,23.0,5.0,1,219
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,27.0,2.0,7,34
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,7.0,3.0,5,21
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,2.0,1.0,3,3
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,29.0,4.0,2,43
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,19.0,1.0,5,16
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,28.0,3.0,8,17
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,14.0,3.0,1,9
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,9.0,9.0,4.0,1,38
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,20.0,2.0,2,86
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,8.0,4.0,4,30
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,21.0,3.0,8,11
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,9.0,6.0,1.0,6,29
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,29.0,4.0,7,39
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,29.0,4.0,2,0
+ALCALDE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,9.0,6.0,1.0,1,16
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,23.0,5.0,1,154
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,17.0,2.0,10,91
+ALCALDE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,29.0,4.0,1,5
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,25.0,3.0,1,16
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,10.0,2.0,4,52
+ALCALDE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,29.0,4.0,1,3
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,6.0,2.0,5,82
+ALCALDE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,19.0,4.0,2,4
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,21.0,3.0,12,28
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,28.0,3.0,11,117
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,30.0,5.0,8,33
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,14.0,3.0,4,118
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,26.0,1.0,4,15
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,9.0,5.0,3,12
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,9.0,9.0,4.0,3,293
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,9.0,1.0,2,16
+GOBERNADOR REGIONAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,27.0,2.0,1,18
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,19.0,4.0,1,15
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,8.0,4.0,6,15
+GOBERNADOR REGIONAL,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,28.0,3.0,1,17
+GOBERNADOR REGIONAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,22.0,4.0,1,69
+ALCALDE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,9.0,8.0,3.0,2,61
+ALCALDE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,5.0,4.0,1,25
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,9.0,6.0,1.0,5,6
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,16.0,1.0,1,19
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,8.0,6.0,5.0,6,60
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,11.0,3.0,4,15
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,9.0,8.0,3.0,5,170
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,18.0,3.0,1,18
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,9.0,1.0,1,21
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,4.0,3.0,6,23
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,14.0,3.0,3,265
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,13.0,2.0,3,37
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,9.0,5.0,1,45
+ALCALDE,Célula 8 (EN),Magaly,Riquelme,Bueno,9.0,7.0,2.0,2,84
+ALCALDE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,29.0,4.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,13.0,2.0,4,63
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,12.0,1.0,1,33
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,14.0,3.0,4,38
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,21.0,3.0,9,29
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,23.0,1.0,2,5
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,19.0,1.0,3,28
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,9.0,1.0,3,38
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,21.0,3.0,14,13
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,12.0,4.0,7,34
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,6.0,5.0,8,34
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,30.0,5.0,3,24
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,9.0,9.0,4.0,6,72
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,4.0,3.0,7,85
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,10.0,2.0,3,66
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,14.0,6.0,2,3
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,7.0,26.0,1.0,11,25
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,9.0,5.0,2,17
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,6.0,5.0,7,33
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,29.0,4.0,8,81
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,30.0,5.0,7,164
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,9.0,9.0,4.0,2,8
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,12.0,4.0,5,22
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,8.0,4.0,6,110
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,12.0,1.0,2,40
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,23.0,5.0,28,24
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,2.0,1.0,8,32
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,16.0,1.0,6,42
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,14.0,3.0,2,116
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,8.0,4.0,3.0,9,80
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,9.0,8.0,3.0,2,31
+ALCALDE,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,16.0,1.0,3,32
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,19.0,1.0,4,3
+ALCALDE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,8.0,3.0,2.0,1,0
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,27.0,2.0,10,14
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,19.0,1.0,19,53
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,22.0,4.0,15,22
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,6.0,5.0,6,80
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,9.0,1.0,2,22
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,12.0,1.0,1,14
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,4.0,3.0,4,22
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,22.0,4.0,16,42
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,8.0,3.0,2.0,10,141
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,5.0,4.0,3,36
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,21.0,3.0,8,0
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,12.0,1.0,2,32
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,29.0,4.0,15,53
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,8.0,23.0,1.0,11,188
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,28.0,3.0,1,0
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,8.0,17.0,2.0,2,17
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,30.0,5.0,3,10
+ALCALDE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,5.0,4.0,1,6
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,28.0,3.0,2,74
+ALCALDE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,9.0,6.0,1.0,1,28
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,9.0,8.0,3.0,1,5
+ALCALDE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,18.0,3.0,1,10
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,13.0,2.0,3,109
+ALCALDE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,20.0,5.0,1,33
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,19.0,1.0,2,17
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,16.0,1.0,7,62
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,7.0,29.0,4.0,6,48
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,3.0,2.0,9,77
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,26.0,1.0,6,11
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,16.0,1.0,16,120
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,23.0,5.0,12,8
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,13.0,2.0,1,15
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,6.0,5.0,1,19
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,9.0,5.0,2,96
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,19.0,1.0,1,27
+ALCALDE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,10.0,2.0,1,5
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,9.0,5.0,6,64
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,9.0,9.0,4.0,1,37
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,19.0,1.0,2,117
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,2.0,1.0,3,9
+GOBERNADOR REGIONAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,21.0,3.0,1,118
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,30.0,5.0,6,126
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,22.0,4.0,8,19
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,5.0,1.0,2,51
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,8.0,4.0,4,63
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,3.0,2.0,4,183
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,5.0,1.0,1,2
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,18.0,3.0,4,21
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,19.0,1.0,2,17
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,20.0,5.0,3,42
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,9.0,6.0,1.0,1,21
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,18.0,3.0,1,43
+ALCALDE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,8.0,3.0,2.0,2,66
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,9.0,6.0,1.0,2,37
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,27.0,2.0,10,41
+ALCALDE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,9.0,8.0,3.0,7,94
+GOBERNADOR REGIONAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,20.0,2.0,2,145
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,15.0,4.0,2,104
+ALCALDE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,9.0,8.0,3.0,3,95
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,9.0,6.0,1.0,1,45
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,9.0,8.0,3.0,2,46
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,14.0,3.0,2,55
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,23.0,5.0,2,84
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,29.0,4.0,8,19
+ALCALDE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,3.0,2.0,1,13
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,9.0,7.0,2.0,3,61
+ALCALDE,Célula 7 (OC),Bianca,Suazo,Castro,8.0,9.0,1.0,1,11
+ALCALDE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,9.0,7.0,2.0,4,299
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,8.0,4.0,1,43
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,22.0,4.0,1,8
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,28.0,3.0,10,16
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,5.0,4.0,2,83
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,9.0,8.0,3.0,3,98
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,19.0,1.0,1,100
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,27.0,2.0,6,40
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,20.0,2.0,8,25
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,6.0,5.0,5,17
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,19.0,1.0,15,49
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,30.0,1.0,3,19
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,17.0,2.0,3,40
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,12.0,1.0,1,22
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,8.0,4.0,1,61
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,24.0,2.0,2,41
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,11.0,0.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,8.0,4.0,1,7
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,23.0,1.0,1,4
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,6.0,2.0,4,33
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,10.0,2.0,2,97
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,9.0,8.0,3.0,5,34
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,14.0,3.0,2,46
+GOBERNADOR REGIONAL,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,8.0,4.0,1,21
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,23.0,1.0,6,50
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,6.0,5.0,3,35
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,20.0,2.0,1,54
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,7.0,3.0,5,100
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,19.0,4.0,11,96
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,9.0,7.0,2.0,1,3
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,19.0,4.0,1,8
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,10.0,2.0,1,48
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,11.0,3.0,1,168
+ALCALDE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,2.0,1.0,1,35
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,2.0,1.0,9,59
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,5.0,4.0,4,48
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,15.0,4.0,1,32
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,6.0,5.0,2,33
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,13.0,2.0,3,135
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,30.0,5.0,7,16
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,8.0,4.0,3,379
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,20.0,2.0,20,69
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,17.0,2.0,3,32
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,4.0,3.0,4,43
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,6.0,5.0,3,82
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,16.0,1.0,2,59
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,6.0,2.0,1,16
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,9.0,8.0,3.0,1,149
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,8.0,3.0,2.0,1,52
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,20.0,2.0,1,95
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,9.0,1.0,4,88
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,12.0,1.0,1,42
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,4.0,3.0,5,50
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,26.0,1.0,1,0
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,29.0,4.0,3,86
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,29.0,4.0,8,7
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,9.0,7.0,2.0,7,295
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,30.0,5.0,1,6
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,23.0,5.0,1,31
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,17.0,2.0,5,47
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,2.0,1.0,5,59
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,9.0,2.0,4.0,6,78
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,21.0,3.0,4,59
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,9.0,9.0,4.0,1,32
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,12.0,1.0,2,36
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,4.0,3.0,5,30
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,30.0,5.0,1,6
+GOBERNADOR REGIONAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,20.0,2.0,2,70
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,21.0,3.0,1,44
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,9.0,7.0,2.0,2,63
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,9.0,1.0,1,0
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,20.0,2.0,4,2
+ALCALDE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,12.0,4.0,1,25
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,4.0,3.0,6,57
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,7.0,3.0,3,18
+ALCALDE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,2.0,1.0,2,158
+GOBERNADOR REGIONAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,21.0,3.0,1,6
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,9.0,1.0,5,115
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,26.0,1.0,19,71
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,8.0,0.0,2,33
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,8.0,4.0,6,54
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,22.0,4.0,2,102
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,9.0,7.0,2.0,3,16
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,5.0,4.0,9,81
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,26.0,1.0,9,33
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,8.0,5.0,4.0,4,69
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,5.0,1.0,1,116
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,30.0,5.0,3,4
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,9.0,1.0,5,113
+ALCALDE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,9.0,9.0,4.0,1,113
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,13.0,2.0,4,110
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,20.0,2.0,2,39
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,4.0,3.0,2,5
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,12.0,1.0,4,176
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,4.0,3.0,6,24
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,23.0,5.0,4,8
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,28.0,3.0,15,90
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,28.0,3.0,16,98
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,18.0,3.0,2,48
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,29.0,4.0,1,0
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,13.0,5.0,2,21
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,29.0,4.0,4,43
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,16.0,1.0,3,29
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,16.0,1.0,1,0
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,3.0,2.0,9,64
+GOBERNADOR REGIONAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,19.0,1.0,1,20
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,21.0,3.0,1,15
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,29.0,4.0,3,99
+ALCALDE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,9.0,8.0,3.0,4,210
+ALCALDE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,9.0,1.0,1,70
+ALCALDE,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,5.0,4.0,1,3
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,8.0,4.0,9,184
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,16.0,1.0,7,81
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,12.0,1.0,1,36
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,9.0,5.0,2,70
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,23.0,5.0,7,4
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,13.0,5.0,6,72
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,8.0,4.0,5,114
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,15.0,4.0,1,82
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,27.0,2.0,7,74
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,6.0,5.0,5,25
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,29.0,4.0,3,0
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,23.0,5.0,30,116
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,26.0,1.0,8,39
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,20.0,2.0,16,46
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,9.0,5.0,4,18
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,23.0,5.0,9,18
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,14.0,3.0,4,5
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,19.0,1.0,4,10
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,8.0,3.0,2.0,15,71
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,9.0,6.0,1.0,1,34
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,22.0,4.0,7,37
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,18.0,3.0,2,89
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,8.0,10.0,2.0,1,39
+ALCALDE,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,12.0,4.0,1,39
+CONCEJAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,2.0,1.0,6,124
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,9.0,8.0,3.0,1,9
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,16.0,1.0,1,68
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,23.0,5.0,6,21
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,2.0,1.0,1,6
+GOBERNADOR REGIONAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,27.0,2.0,2,175
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,23.0,5.0,8,8
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,6.0,5.0,5,26
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,3.0,2.0,3,50
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,9.0,8.0,3.0,4,70
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,6.0,5.0,2,0
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,28.0,3.0,6,8
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,15.0,4.0,1,64
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,23.0,1.0,6,16
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,14.0,6.0,4,11
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,23.0,5.0,9,32
+ALCALDE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,9.0,8.0,3.0,4,76
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,25.0,3.0,1,14
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,22.0,4.0,9,62
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,2.0,1.0,6,44
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,8.0,2.0,1.0,7,67
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,23.0,5.0,11,6
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,12.0,1.0,1,16
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,9.0,7.0,2.0,2,7
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,5.0,4.0,4,24
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,10.0,2.0,5,10
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,21.0,3.0,1,108
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,14.0,6.0,2,109
+ALCALDE,Célula 5 (FD),Genesis,Lopez,Fuentes,8.0,4.0,3.0,1,29
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,17.0,2.0,8,62
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,4.0,3.0,13,70
+GOBERNADOR REGIONAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,26.0,1.0,1,67
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,15.0,4.0,2,220
+ALCALDE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,2.0,1.0,1,21
+GOBERNADOR REGIONAL,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,29.0,4.0,2,54
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,8.0,4.0,2,113
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,23.0,5.0,7,36
+ALCALDE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,9.0,1.0,2,60
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,29.0,4.0,7,34
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,28.0,3.0,3,44
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,1.0,0.0,1,83
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,27.0,2.0,7,13
+ALCALDE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,4.0,3.0,3,106
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,15.0,4.0,8,42
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,5.0,4.0,3,60
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,5.0,4.0,2,130
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,6.0,5.0,4,32
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,23.0,5.0,3,72
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,30.0,5.0,3,4
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,29.0,4.0,11,50
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,30.0,5.0,10,157
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,8.0,4.0,7,13
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,22.0,4.0,32,64
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,23.0,5.0,11,37
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,26.0,1.0,2,2
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,28.0,3.0,18,170
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,5.0,4.0,6,90
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,9.0,5.0,2,91
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,11.0,0.0,2,11
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,7.0,3.0,3,33
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,8.0,4.0,3.0,12,120
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,29.0,4.0,14,116
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,11.0,3.0,2,2
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,20.0,2.0,1,30
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,27.0,2.0,8,59
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,6.0,5.0,6,47
+ALCALDE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,10.0,2.0,3,130
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,17.0,6.0,1,166
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,5.0,4.0,12,63
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,9.0,9.0,4.0,1,142
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,6.0,5.0,2,389
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,6.0,5.0,5,38
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,14.0,6.0,2,68
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,12.0,1.0,3,43
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,23.0,5.0,1,5
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,25.0,3.0,5,39
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,14.0,3.0,4,49
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,28.0,3.0,3,12
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,18.0,3.0,1,28
+GOBERNADOR REGIONAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,30.0,5.0,1,96
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,5.0,4.0,7,87
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,9.0,1.0,3.0,2,10
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,17.0,2.0,7,30
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,12.0,4.0,7,74
+GOBERNADOR REGIONAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,20.0,2.0,1,77
+ALCALDE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,13.0,5.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,12.0,1.0,5,25
+ALCALDE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,9.0,9.0,4.0,2,48
+ALCALDE,Célula 2 (CA),Felipe,Canales,Guzman,9.0,7.0,2.0,2,24
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,6.0,2.0,3,25
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,5.0,1.0,3,27
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,19.0,1.0,1,95
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,29.0,4.0,8,64
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,7.0,3.0,6,23
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,11.0,0.0,4,53
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,14.0,3.0,2,128
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,6.0,5.0,3,16
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,12.0,1.0,3,105
+ALCALDE,Célula 1 (MB),Hector,Guzman,Manterola ,9.0,8.0,3.0,1,12
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,2.0,1.0,3,173
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,24.0,2.0,1,44
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,3.0,2.0,5,35
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,16.0,1.0,9,63
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,30.0,5.0,10,187
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,8.0,5.0,4.0,3,70
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,5.0,4.0,1,4
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,7.0,3.0,1,29
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,13.0,2.0,3,15
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,7.0,27.0,2.0,7,31
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,20.0,2.0,1,32
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,12.0,4.0,3,8
+CONCEJAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,4.0,3.0,10,66
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,9.0,1.0,6,66
+ALCALDE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,4.0,3.0,2,20
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,9.0,5.0,4,67
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,5.0,4.0,1,45
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,11.0,3.0,1,29
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,4.0,3.0,8,53
+ALCALDE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,9.0,9.0,4.0,2,127
+ALCALDE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,9.0,8.0,3.0,7,124
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,29.0,4.0,11,52
+GOBERNADOR REGIONAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,21.0,3.0,1,100
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,17.0,2.0,9,120
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,28.0,3.0,10,61
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,3.0,2.0,6,51
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,11.0,3.0,5,44
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,29.0,4.0,2,0
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,21.0,3.0,24,98
+ALCALDE,Célula 7 (OC),Bianca,Suazo,Castro,8.0,4.0,3.0,1,7
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,29.0,4.0,6,32
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,28.0,3.0,3,48
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,15.0,4.0,7,48
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,13.0,2.0,2,171
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,7.0,30.0,5.0,5,23
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,6.0,5.0,8,79
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,25.0,3.0,1,0
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,8.0,4.0,3.0,12,87
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,20.0,2.0,3,30
+ALCALDE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,9.0,3.0,5.0,1,24
+GOBERNADOR REGIONAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,18.0,0.0,1,0
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,9.0,1.0,2,46
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,2.0,1.0,7,62
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,12.0,1.0,1,113
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,8.0,4.0,2,24
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,19.0,1.0,1,2
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,13.0,2.0,6,53
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,30.0,5.0,3,63
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,22.0,4.0,9,16
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,7.0,3.0,3,103
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,5.0,4.0,4,0
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,3.0,2.0,8,36
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,23.0,1.0,3,26
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,2.0,1.0,1,24
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,20.0,5.0,2,29
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,8.0,9.0,1.0,11,59
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,22.0,4.0,2,122
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,9.0,1.0,5,209
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,23.0,1.0,2,31
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,4.0,3.0,1,42
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,11.0,3.0,1,7
+ALCALDE,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,6.0,5.0,1,13
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,15.0,0.0,5,33
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,9.0,8.0,3.0,5,121
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,9.0,1.0,3.0,3,23
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,2.0,1.0,4,71
+ALCALDE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,9.0,6.0,1.0,1,0
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,9.0,6.0,1.0,6,47
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,6.0,5.0,3,28
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,20.0,5.0,1,3
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,9.0,1.0,1,6
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,5.0,4.0,6,63
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,29.0,4.0,1,15
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,30.0,5.0,4,102
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,25.0,3.0,1,30
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,14.0,3.0,2,306
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,4.0,3.0,10,21
+ALCALDE,Célula 9 (GR),Magdalen,Jara,Veloso,9.0,7.0,2.0,1,36
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Felipe,Canales,Guzman,7.0,8.0,4.0,3,36
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,9.0,1.0,10,80
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,10.0,2.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,20.0,5.0,1,0
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,2.0,1.0,1,15
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,6.0,5.0,1,73
+ALCALDE,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,6.0,5.0,1,50
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,21.0,3.0,4,21
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,27.0,2.0,8,18
+ALCALDE,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,9.0,6.0,1.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,8.0,4.0,3,21
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,29.0,4.0,18,57
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,2.0,1.0,7,17
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,28.0,3.0,15,74
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,6.0,2.0,2,24
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,6.0,5.0,4,80
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,6.0,5.0,4,40
+ALCALDE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,9.0,8.0,3.0,3,78
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,21.0,3.0,6,0
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,20.0,5.0,1,7
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,8.0,4.0,2,13
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,26.0,1.0,1,96
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,30.0,5.0,3,27
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,30.0,5.0,11,157
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,5.0,4.0,1,105
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,9.0,7.0,2.0,2,121
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,23.0,5.0,5,25
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,2.0,1.0,6,152
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,15.0,4.0,1,177
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,30.0,5.0,4,39
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,19.0,4.0,1,15
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,4.0,3.0,5,38
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,21.0,6.0,1,35
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,3.0,2.0,3,6
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,9.0,8.0,3.0,1,15
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,26.0,1.0,3,15
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,6.0,5.0,5,80
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,29.0,4.0,5,29
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,13.0,2.0,2,147
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,21.0,3.0,17,51
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,6.0,2.0,4,74
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,13.0,2.0,2,112
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,24.0,2.0,9,203
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,4.0,3.0,9,39
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,20.0,5.0,1,0
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,5.0,4.0,4,21
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,9.0,3.0,5.0,4,46
+ALCALDE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,9.0,7.0,2.0,6,191
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,12.0,1.0,1,35
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,6.0,5.0,9,114
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,29.0,4.0,9,57
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,18.0,3.0,1,0
+GOBERNADOR REGIONAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,30.0,5.0,2,8
+ALCALDE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,9.0,9.0,4.0,3,197
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,17.0,2.0,1,18
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,21.0,3.0,1,3
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,11.0,3.0,6,7
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,30.0,5.0,1,0
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,18.0,3.0,1,12
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,11.0,3.0,5,76
+ALCALDE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,10.0,2.0,1,27
+ALCALDE,Célula 6 (KM),Eloy,Navarrete,Clavero,9.0,9.0,4.0,1,20
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,11.0,0.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,8.0,4.0,6,95
+ALCALDE,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,4.0,3.0,2,10
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,19.0,1.0,7,34
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,23.0,5.0,4,36
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,29.0,4.0,14,100
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,22.0,4.0,8,37
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,12.0,1.0,5,218
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,11.0,3.0,4,23
+ALCALDE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,9.0,7.0,2.0,1,12
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,18.0,3.0,5,37
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,20.0,5.0,4,29
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,4.0,3.0,2,53
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,20.0,2.0,2,16
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,16.0,1.0,10,110
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,13.0,2.0,2,0
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,13.0,2.0,3,197
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,17.0,2.0,3,7
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,29.0,4.0,2,22
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,22.0,4.0,6,5
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,9.0,5.0,2,11
+ALCALDE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,16.0,1.0,1,3
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,11.0,3.0,4,44
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,4.0,3.0,1,17
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,20.0,5.0,2,32
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,17.0,2.0,1,70
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,21.0,3.0,1,20
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,19.0,4.0,1,13
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,28.0,3.0,2,9
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,6.0,5.0,3,126
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,26.0,1.0,10,34
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,9.0,8.0,3.0,2,80
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,12.0,4.0,2,22
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,1.0,0.0,1,5
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,5.0,1.0,4,10
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,9.0,6.0,1.0,6,53
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,8.0,4.0,5,120
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,19.0,4.0,3,37
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,30.0,5.0,2,64
+ALCALDE,Célula 7 (OC),Pablo,Castañeda,Curiqueo,9.0,9.0,4.0,3,62
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,13.0,5.0,4,54
+GOBERNADOR REGIONAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,9.0,8.0,3.0,1,40
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,6.0,2.0,2,86
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,7.0,23.0,5.0,8,14
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,10.0,2.0,4,38
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,8.0,4.0,4,47
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,14.0,3.0,2,114
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,9.0,9.0,4.0,4,9
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,2.0,1.0,7,146
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,3.0,2.0,2,18
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,26.0,1.0,2,44
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,23.0,5.0,16,23
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,14.0,3.0,1,87
+ALCALDE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,6.0,5.0,1,41
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,10.0,2.0,7,34
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,8.0,4.0,2,23
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,19.0,1.0,1,49
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,12.0,4.0,1,108
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,9.0,8.0,3.0,1,14
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,9.0,7.0,2.0,7,336
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,29.0,4.0,19,311
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,21.0,3.0,6,61
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,13.0,5.0,7,76
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,21.0,3.0,10,43
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,30.0,5.0,6,12
+ALCALDE,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,13.0,5.0,1,0
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,9.0,3.0,5.0,4,3
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,16.0,1.0,3,49
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,4.0,3.0,10,172
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,9.0,1.0,6,53
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,9.0,9.0,4.0,2,12
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,23.0,1.0,1,42
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,6.0,2.0,6,20
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,19.0,4.0,2,113
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,27.0,2.0,5,77
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,9.0,3.0,5.0,1,20
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,2.0,1.0,4,31
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,22.0,4.0,3,6
+ALCALDE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,16.0,1.0,1,95
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,16.0,1.0,3,18
+ALCALDE,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,24.0,2.0,1,14
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,2.0,1.0,2,5
+ALCALDE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,22.0,4.0,2,10
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,10.0,2.0,5,56
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,7.0,3.0,1,19
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,19.0,1.0,4,9
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,18.0,3.0,3,38
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,2.0,1.0,11,39
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,9.0,5.0,4,142
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,12.0,1.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Bianca,Suazo,Castro,7.0,8.0,4.0,6,154
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,14.0,3.0,2,12
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,12.0,1.0,2,14
+ALCALDE,Célula 7 (OC),Bianca,Suazo,Castro,7.0,21.0,3.0,1,139
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,27.0,2.0,9,34
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,14.0,3.0,1,39
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,8.0,2.0,1.0,1,46
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,18.0,3.0,6,91
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,13.0,5.0,2,27
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,13.0,2.0,4,37
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,8.0,5.0,4.0,1,113
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,13.0,5.0,6,35
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,26.0,1.0,1,136
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,6.0,2.0,1,2
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,20.0,5.0,8,40
+ALCALDE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,9.0,8.0,3.0,5,198
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,21.0,3.0,14,15
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,6.0,2.0,6,65
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,28.0,3.0,5,33
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,6.0,2.0,4,2
+ALCALDE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,13.0,5.0,1,51
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,9.0,5.0,3,31
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,26.0,1.0,1,19
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,26.0,1.0,9,6
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,12.0,4.0,10,190
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,12.0,1.0,2,142
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,14.0,6.0,3,90
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,11.0,0.0,2,23
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,29.0,4.0,5,39
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,12.0,4.0,5,73
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,6.0,5.0,7,45
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,9.0,1.0,4,41
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,9.0,1.0,1,30
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,13.0,2.0,4,260
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,9.0,1.0,2,40
+ALCALDE,Célula 6 (KM),Eloy,Navarrete,Clavero,9.0,7.0,2.0,2,30
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,29.0,4.0,3,3
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,13.0,2.0,5,43
+ALCALDE,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,17.0,2.0,1,11
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,6.0,2.0,1,37
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,10.0,2.0,1,328
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,9.0,1.0,8,130
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,4.0,3.0,4,51
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,9.0,7.0,2.0,1,9
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,11.0,0.0,2,15
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,5.0,4.0,10,81
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,7.0,3.0,3,11
+ALCALDE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,9.0,6.0,1.0,1,18
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,30.0,5.0,4,17
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,8.0,4.0,6,99
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,12.0,4.0,1,3
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,21.0,3.0,2,60
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,9.0,7.0,2.0,1,4
+ALCALDE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,9.0,7.0,2.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,6.0,2.0,1,13
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,27.0,2.0,11,32
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,7.0,3.0,3,22
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,29.0,4.0,6,23
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,9.0,9.0,4.0,2,11
+ALCALDE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,9.0,8.0,3.0,3,55
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,18.0,3.0,10,121
+ALCALDE,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,9.0,1.0,2,90
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,23.0,5.0,7,11
+ALCALDE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,5.0,4.0,1,70
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,7.0,3.0,2,51
+ALCALDE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,30.0,5.0,1,44
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,29.0,4.0,4,50
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,23.0,5.0,12,39
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,9.0,6.0,1.0,2,20
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,21.0,3.0,3,28
+ALCALDE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,17.0,2.0,1,72
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,21.0,3.0,8,24
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,17.0,2.0,6,24
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,19.0,1.0,1,0
+ALCALDE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,9.0,9.0,4.0,1,30
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,9.0,1.0,1,37
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,22.0,4.0,5,25
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,9.0,5.0,3,111
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,20.0,2.0,17,25
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,20.0,2.0,6,46
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,9.0,5.0,1,37
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,23.0,5.0,27,55
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,21.0,3.0,2,15
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,7.0,3.0,2,25
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,27.0,2.0,13,26
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,5.0,1.0,3,175
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,9.0,8.0,3.0,1,11
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,8.0,4.0,3,33
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,9.0,7.0,2.0,2,6
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,6.0,5.0,7,48
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,5.0,1.0,2,28
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,27.0,2.0,7,62
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,2.0,1.0,1,52
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,8.0,5.0,4.0,6,56
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,5.0,1.0,2,70
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,9.0,8.0,3.0,2,0
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,9.0,7.0,2.0,1,14
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,12.0,1.0,3,55
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,11.0,3.0,5,49
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,8.0,3.0,2.0,2,116
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,10.0,2.0,2,17
+ALCALDE,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,10.0,2.0,1,19
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,16.0,1.0,1,8
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,8.0,2.0,1.0,8,157
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,5.0,4.0,4,51
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,2.0,1.0,6,21
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,13.0,5.0,13,81
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,19.0,1.0,3,28
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,20.0,2.0,1,69
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,27.0,2.0,3,55
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,13.0,5.0,7,32
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,20.0,2.0,7,8
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,9.0,5.0,3,23
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,6.0,5.0,10,88
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,2.0,1.0,5,92
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,3.0,2.0,5,74
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,15.0,4.0,1,230
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,6.0,5.0,2,44
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,12.0,4.0,5,35
+CONCEJAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,29.0,4.0,3,34
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,21.0,3.0,7,0
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,19.0,1.0,5,15
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,18.0,3.0,9,93
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,18.0,3.0,7,26
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,9.0,1.0,12,72
+ALCALDE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,18.0,3.0,1,9
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,7.0,3.0,6,26
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,8.0,4.0,3.0,15,84
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,30.0,5.0,4,38
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,9.0,1.0,9,78
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,28.0,3.0,9,70
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,21.0,3.0,2,302
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,17.0,2.0,2,0
+ALCALDE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,9.0,6.0,1.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,12.0,1.0,2,45
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,27.0,2.0,11,23
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,16.0,1.0,7,63
+ALCALDE,Célula 8 (EN),Juan, Medel,Leyton,9.0,9.0,4.0,4,71
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,30.0,5.0,1,21
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,21.0,3.0,7,13
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,9.0,9.0,4.0,10,42
+ALCALDE,Célula 7 (OC),Pablo,Castañeda,Curiqueo,9.0,6.0,1.0,2,123
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,8.0,4.0,2,3
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,29.0,4.0,9,52
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,13.0,5.0,3,69
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,5.0,4.0,7,107
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,9.0,1.0,5,49
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,9.0,1.0,6,167
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,9.0,7.0,2.0,4,55
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,7.0,3.0,6,13
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,7.0,3.0,1,15
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,7.0,27.0,2.0,3,10
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,16.0,1.0,11,50
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,16.0,1.0,4,23
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,21.0,3.0,10,25
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,20.0,2.0,13,9
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,7.0,3.0,1,0
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,16.0,1.0,7,39
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,28.0,3.0,8,9
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,22.0,4.0,1,133
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,6.0,2.0,1,11
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,23.0,5.0,1,30
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,7.0,3.0,4,72
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,5.0,4.0,7,114
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,22.0,4.0,4,305
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,9.0,5.0,3,43
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,23.0,5.0,1,72
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,17.0,2.0,6,78
+GOBERNADOR REGIONAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,20.0,2.0,4,84
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,17.0,2.0,1,38
+ALCALDE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,9.0,9.0,4.0,1,79
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,26.0,1.0,6,75
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,3.0,2.0,13,79
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,17.0,6.0,1,34
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,6.0,5.0,3,7
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,6.0,5.0,1,9
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,26.0,1.0,7,20
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,8.0,3.0,2.0,8,108
+ALCALDE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,9.0,7.0,2.0,3,82
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,23.0,1.0,9,137
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,4.0,3.0,11,104
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,20.0,2.0,2,15
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,26.0,1.0,8,30
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,14.0,3.0,3,22
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,7.0,23.0,5.0,19,110
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,6.0,5.0,2,93
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,3.0,2.0,3,42
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,12.0,1.0,1,22
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,9.0,8.0,3.0,1,13
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,23.0,5.0,8,0
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,9.0,8.0,3.0,7,56
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,3.0,2.0,1,17
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,22.0,4.0,2,48
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,26.0,1.0,4,36
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,22.0,4.0,12,74
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,8.0,2.0,1.0,2,40
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,19.0,4.0,1,14
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,25.0,3.0,4,13
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,11.0,0.0,2,74
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,19.0,1.0,2,0
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,12.0,1.0,2,34
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,12.0,1.0,5,35
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,3.0,2.0,1,8
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,5.0,4.0,8,60
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,30.0,5.0,1,69
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,13.0,5.0,14,122
+ALCALDE,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,9.0,1.0,1,66
+CONCEJAL,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,13.0,5.0,2,40
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,9.0,6.0,1.0,2,9
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,8.0,4.0,4,72
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,6.0,2.0,2,36
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,23.0,5.0,2,53
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,9.0,5.0,2,230
+CONCEJAL,Célula 8 (EN),Juan, Medel,Leyton,7.0,20.0,2.0,4,4
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,26.0,1.0,4,25
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,26.0,1.0,7,17
+ALCALDE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,24.0,2.0,3,188
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,19.0,1.0,2,6
+ALCALDE,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,9.0,8.0,3.0,1,78
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,7.0,13.0,2.0,4,90
+GOBERNADOR REGIONAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,27.0,2.0,2,77
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,11.0,3.0,8,45
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,18.0,0.0,8,197
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,9.0,3.0,5.0,1,9
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,8.0,9.0,1.0,2,36
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,14.0,3.0,1,12
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,12.0,4.0,2,24
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,21.0,3.0,2,113
+ALCALDE,Célula 5 (FD),María Griselda,Parraguez,Meneses,8.0,2.0,1.0,2,65
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,15.0,4.0,2,142
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,20.0,2.0,2,0
+CONVENCIONAL CONSTITUYENTE,NO,Javier,Licanque,Calfi,8.0,28.0,6.0,41,231
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,9.0,6.0,1.0,1,23
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,28.0,3.0,5,37
+ALCALDE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,9.0,6.0,1.0,2,31
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,22.0,4.0,6,67
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,11.0,3.0,4,59
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,27.0,2.0,10,44
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,9.0,5.0,6,74
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,3.0,2.0,3,45
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,9.0,9.0,4.0,3,138
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,31.0,2.0,1,16
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,2.0,1.0,3,11
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,9.0,7.0,2.0,2,69
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,3.0,2.0,6,47
+CONCEJAL,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,22.0,4.0,24,88
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,9.0,1.0,4,52
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,30.0,5.0,15,239
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,19.0,1.0,2,0
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,20.0,5.0,1,13
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,21.0,3.0,2,156
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,5.0,4.0,9,99
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,9.0,7.0,2.0,3,73
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,9.0,5.0,3,40
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,7.0,28.0,3.0,5,56
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,17.0,2.0,4,40
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,5.0,4.0,7,62
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,26.0,1.0,6,64
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,3.0,2.0,10,224
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,19.0,4.0,8,26
+ALCALDE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,9.0,7.0,2.0,2,74
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,6.0,5.0,8,60
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,21.0,3.0,5,21
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,6.0,2.0,4,13
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Felipe,Canales,Guzman,7.0,13.0,2.0,3,35
+ALCALDE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,30.0,5.0,2,257
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,9.0,7.0,2.0,4,6
+CONCEJAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,5.0,4.0,8,57
+GOBERNADOR REGIONAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,7.0,29.0,4.0,2,0
+CONCEJAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,3.0,2.0,7,14
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,7.0,22.0,4.0,17,52
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,7.0,3.0,1,0
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,6.0,5.0,5,59
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,19.0,1.0,1,90
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,11.0,3.0,4,67
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,8.0,5.0,4.0,6,141
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,4.0,3.0,15,70
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,6.0,2.0,6,12
+GOBERNADOR REGIONAL,Célula 1 (MB),Macarena,Molina,Sepulveda,7.0,27.0,2.0,4,87
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,27.0,2.0,12,77
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,30.0,5.0,14,170
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,9.0,8.0,3.0,1,2
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,9.0,6.0,1.0,8,42
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,9.0,9.0,4.0,3,13
+ALCALDE,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,11.0,3.0,2,96
+ALCALDE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,23.0,1.0,1,13
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,9.0,9.0,4.0,3,133
+ALCALDE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,20.0,2.0,2,7
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,17.0,2.0,2,75
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,13.0,5.0,7,61
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,9.0,5.0,1,58
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,4.0,3.0,1,135
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,4.0,3.0,3,79
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,7.0,3.0,3,2
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,18.0,3.0,12,39
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,22.0,4.0,6,13
+ALCALDE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,28.0,3.0,1,15
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,5.0,1.0,4,135
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,2.0,1.0,2,85
+ALCALDE,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,3.0,2.0,2,20
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,9.0,7.0,2.0,1,71
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,4.0,3.0,9,53
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,7.0,6.0,1,9
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,23.0,5.0,9,29
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,12.0,1.0,2,29
+ALCALDE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,9.0,8.0,3.0,4,128
+ALCALDE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,9.0,7.0,2.0,3,150
+ALCALDE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,17.0,2.0,1,27
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,30.0,5.0,5,53
+ALCALDE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,17.0,2.0,1,4
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,9.0,9.0,4.0,2,11
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,17.0,2.0,1,18
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,7.0,22.0,4.0,15,17
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,8.0,4.0,6,50
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,26.0,1.0,19,69
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,16.0,1.0,3,69
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,8.0,5.0,4.0,8,117
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,2.0,1.0,7,89
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,11.0,3.0,10,155
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,14.0,3.0,3,218
+ALCALDE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,3.0,2.0,1,73
+ALCALDE,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,9.0,8.0,3.0,2,148
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,8.0,4.0,3.0,5,36
+CONCEJAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,8.0,10.0,2.0,3,51
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,16.0,1.0,5,59
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,17.0,2.0,5,69
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,19.0,1.0,1,40
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,29.0,4.0,9,68
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,29.0,4.0,13,283
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,3.0,2.0,1,4
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,30.0,1.0,2,8
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,9.0,1.0,5,71
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,12.0,4.0,4,394
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,9.0,5.0,2,60
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,12.0,4.0,1,3
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,27.0,2.0,9,17
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,3.0,2.0,1,93
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,21.0,3.0,27,127
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,9.0,9.0,4.0,5,36
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,17.0,2.0,7,88
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,9.0,1.0,5,37
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,6.0,5.0,4,166
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,8.0,5.0,4.0,1,82
+ALCALDE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,3.0,2.0,1,33
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,13.0,5.0,1,29
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,9.0,7.0,2.0,4,103
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,9.0,1.0,1,40
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,19.0,1.0,9,2
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,30.0,5.0,5,35
+CONCEJAL,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,24.0,2.0,3,110
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,9.0,3.0,5.0,2,9
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,6.0,2.0,2,69
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,19.0,4.0,1,44
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,28.0,3.0,3,157
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,3.0,2.0,8,44
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,14.0,3.0,2,152
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,5.0,4.0,7,33
+ALCALDE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,9.0,9.0,4.0,3,65
+ALCALDE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,9.0,1.0,2,19
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,7.0,3.0,6,250
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,17.0,2.0,4,57
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,8.0,4.0,4,100
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,8.0,4.0,1,4
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,9.0,6.0,1.0,1,6
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Felipe,Canales,Guzman,7.0,7.0,3.0,5,24
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,20.0,2.0,2,82
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,9.0,3.0,5.0,1,22
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,16.0,1.0,5,32
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,26.0,1.0,6,44
+ALCALDE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,11.0,3.0,1,16
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,4.0,3.0,1,3
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,26.0,1.0,7,10
+ALCALDE,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,9.0,8.0,3.0,12,126
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,4.0,3.0,3,51
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,9.0,6.0,1.0,4,0
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,9.0,1.0,6,60
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,9.0,3.0,5.0,3,15
+ALCALDE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,2.0,1.0,1,17
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,28.0,3.0,8,22
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,11.0,3.0,8,63
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,8.0,4.0,3,6
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,28.0,3.0,6,33
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,7.0,26.0,1.0,1,20
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,8.0,4.0,5,136
+ALCALDE,Célula 3 (SS),Elizabeth,Alvarado,Pulido,9.0,8.0,3.0,4,60
+ALCALDE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,11.0,3.0,1,14
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,19.0,1.0,1,79
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,17.0,2.0,7,75
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,4.0,3.0,3,73
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,2.0,1.0,1,15
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,11.0,3.0,1,64
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,3.0,2.0,3,53
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,17.0,2.0,1,55
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,10.0,2.0,6,63
+GOBERNADOR REGIONAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,29.0,4.0,2,544
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,22.0,4.0,9,32
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,7.0,3.0,3,44
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,12.0,1.0,1,80
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,22.0,4.0,1,69
+ALCALDE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,9.0,8.0,3.0,5,93
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,15.0,4.0,1,12
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,10.0,2.0,1,132
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,9.0,3.0,5.0,2,23
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,6.0,5.0,3,65
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Bianca,Suazo,Castro,7.0,15.0,4.0,1,221
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,28.0,3.0,5,8
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,9.0,8.0,3.0,9,71
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,7.0,20.0,2.0,1,77
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,7.0,26.0,1.0,16,28
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,19.0,1.0,6,19
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,7.0,27.0,2.0,5,33
+CONCEJAL,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,20.0,2.0,11,18
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,8.0,9.0,1.0,4,132
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,26.0,1.0,17,59
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,7.0,31.0,6.0,4,87
+GOBERNADOR REGIONAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,19.0,1.0,3,56
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,9.0,6.0,1.0,9,79
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,23.0,1.0,3,22
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,2.0,1.0,5,48
+ALCALDE,Célula 3 (SS),Elizabeth,Alvarado,Pulido,9.0,7.0,2.0,3,17
+CONCEJAL,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,26.0,1.0,21,134
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,13.0,5.0,2,34
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,16.0,1.0,7,72
+CONCEJAL,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,9.0,8.0,3.0,1,6
+CONCEJAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,16.0,1.0,14,93
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,22.0,4.0,18,78
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Nicolas ,Cisternas ,Moreno,7.0,15.0,4.0,1,139
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,18.0,3.0,4,36
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,9.0,6.0,1.0,1,4
+ALCALDE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,9.0,8.0,3.0,3,64
+ALCALDE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,9.0,7.0,2.0,8,252
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,9.0,7.0,2.0,3,39
+GOBERNADOR REGIONAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,27.0,2.0,1,127
+ALCALDE,Célula 4 (JL),Jonathan Mauricio,Contreras,Arrieta,8.0,9.0,1.0,1,15
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,8.0,9.0,1.0,3,49
+ALCALDE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,5.0,4.0,1,16
+GOBERNADOR REGIONAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,26.0,1.0,1,132
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,9.0,8.0,3.0,5,75
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,2.0,1.0,1,241
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,9.0,6.0,1.0,1,14
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,30.0,5.0,2,0
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,30.0,5.0,3,12
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,26.0,1.0,2,25
+CONCEJAL,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,8.0,9.0,1.0,10,100
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,2.0,1.0,9,222
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,10.0,2.0,8,55
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,7.0,20.0,2.0,5,34
+GOBERNADOR REGIONAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,10.0,6.0,1,128
+CONCEJAL,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,26.0,1.0,7,10
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,30.0,5.0,3,275
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,9.0,9.0,4.0,5,84
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,9.0,8.0,3.0,6,17
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,2.0,1.0,4,115
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,8.0,17.0,2.0,7,55
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,7.0,3.0,2,11
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,12.0,4.0,2,117
+ALCALDE,Célula 2 (CA),Felipe,Canales,Guzman,8.0,4.0,3.0,1,45
+ALCALDE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,27.0,2.0,1,18
+CONCEJAL,Célula 2 (CA),Alejandro Felipe,Solar,Ramirez,7.0,20.0,2.0,5,11
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,3.0,2.0,9,108
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,9.0,1.0,3,72
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,26.0,1.0,1,106
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,14.0,3.0,1,262
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,3.0,2.0,5,50
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,18.0,3.0,1,240
+CONCEJAL,Célula 1 (MB),Yuber Alex,Reyes, Quena,8.0,13.0,5.0,3,29
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,19.0,1.0,2,26
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,27.0,2.0,6,30
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,9.0,5.0,2,51
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,27.0,2.0,1,167
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,12.0,4.0,5,108
+CONCEJAL,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,28.0,3.0,13,68
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,7.0,29.0,4.0,6,69
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,10.0,2.0,1,37
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,9.0,9.0,4.0,2,10
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,27.0,2.0,7,14
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,8.0,9.0,1.0,5,70
+CONCEJAL,Célula 9 (GR),Maria Isabel,Lecocq,Schafer,8.0,5.0,4.0,9,98
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,18.0,3.0,8,143
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,26.0,1.0,22,81
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,22.0,4.0,6,10
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Maria Francisca,Galleguillos,Toro,7.0,8.0,4.0,4,146
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,8.0,4.0,1,21
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,29.0,4.0,6,32
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,12.0,1.0,6,134
+CONCEJAL,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,18.0,3.0,10,100
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,26.0,1.0,13,7
+ALCALDE,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,9.0,8.0,3.0,4,212
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,9.0,3.0,5.0,1,4
+ALCALDE,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,9.0,6.0,1.0,1,23
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,26.0,1.0,10,56
+ALCALDE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,30.0,5.0,2,48
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,18.0,3.0,2,40
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,12.0,1.0,1,172
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,13.0,2.0,3,84
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,4.0,3.0,6,32
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,15.0,4.0,3,116
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,12.0,4.0,1,53
+GOBERNADOR REGIONAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,26.0,1.0,1,177
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,7.0,27.0,2.0,7,54
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,3.0,2.0,4,47
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,7.0,28.0,3.0,2,59
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,9.0,9.0,4.0,1,72
+ALCALDE,Célula 7 (OC),Bianca,Suazo,Castro,7.0,19.0,1.0,4,18
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,8.0,3.0,2.0,13,222
+CONCEJAL,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,8.0,10.0,2.0,1,7
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,7.0,9.0,5.0,2,54
+GOBERNADOR REGIONAL,Célula 1 (MB),Ximena,Valdevenito,Chamorro,7.0,20.0,2.0,1,39
+CONCEJAL,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,21.0,3.0,32,43
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,21.0,3.0,4,261
+ALCALDE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,9.0,1.0,1,10
+CONCEJAL,Célula 9 (GR),Magdalen,Jara,Veloso,9.0,6.0,1.0,3,11
+ALCALDE,Célula 2 (CA),Felipe,Canales,Guzman,8.0,10.0,2.0,2,134
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,19.0,4.0,3,28
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,5.0,4.0,13,64
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,9.0,8.0,3.0,1,58
+ALCALDE,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,11.0,3.0,1,0
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,23.0,5.0,7,177
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,12.0,1.0,3,174
+CONCEJAL,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,2.0,1.0,7,70
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,15.0,4.0,9,365
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,27.0,2.0,5,7
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,13.0,5.0,3,28
+CONCEJAL,Célula 7 (OC),Bianca,Suazo,Castro,8.0,2.0,1.0,9,65
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,7.0,21.0,3.0,12,56
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,19.0,1.0,6,7
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,8.0,15.0,0.0,3,9
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,15.0,4.0,3,301
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,21.0,3.0,1,13
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,22.0,4.0,2,17
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,21.0,3.0,9,0
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,13.0,5.0,6,52
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,9.0,6.0,1.0,6,49
+CONCEJAL,Célula 8 (EN),Verónica Lorena,Palavecino ,Quiroz,8.0,4.0,3.0,3,22
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,10.0,2.0,1,0
+CONCEJAL,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,28.0,3.0,7,101
+CONCEJAL,Célula 4 (JL),Michelle Alejandra,Sandoval,Betancourt,7.0,30.0,5.0,3,23
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,12.0,4.0,1,16
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,8.0,3.0,2.0,10,128
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,6.0,5.0,3,24
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,14.0,6.0,1,193
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,29.0,4.0,6,41
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,19.0,4.0,6,70
+GOBERNADOR REGIONAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,22.0,4.0,1,46
+ALCALDE,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,8.0,9.0,1.0,1,4
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Magdalen,Jara,Veloso,7.0,14.0,3.0,3,74
+CONCEJAL,Célula 1 (MB),Macarena,Molina,Sepulveda,9.0,7.0,2.0,1,0
+ALCALDE,Célula 7 (OC),Pablo,Castañeda,Curiqueo,9.0,8.0,3.0,4,79
+CONVENCIONAL CONSTITUYENTE,Célula 9 (GR),Marjorie Carolina,Saavedra,Astudillo,7.0,8.0,4.0,5,41
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,17.0,2.0,1,15
+CONCEJAL,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,20.0,2.0,3,2
+ALCALDE,Célula 3 (SS),Rodrigo Alejandro,Mayorga,Bustamante,8.0,10.0,2.0,1,55
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,8.0,11.0,3.0,3,12
+ALCALDE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,9.0,8.0,3.0,2,41
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,7.0,30.0,5.0,8,21
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,20.0,2.0,6,8
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,12.0,1.0,1,20
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,18.0,3.0,4,57
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,9.0,7.0,2.0,1,200
+ALCALDE,Célula 5 (FD),Diego,Retamal,Muñoz,8.0,6.0,5.0,1,44
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,8.0,4.0,3.0,5,213
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,17.0,2.0,9,84
+ALCALDE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,9.0,7.0,2.0,4,92
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,7.0,3.0,3,67
+ALCALDE,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,8.0,9.0,1.0,1,61
+ALCALDE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,9.0,7.0,2.0,2,5
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,7.0,12.0,1.0,6,303
+ALCALDE,Célula 6 (KM),Eloy,Navarrete,Clavero,8.0,25.0,3.0,1,14
+ALCALDE,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,9.0,1.0,1,310
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,8.0,4.0,6,156
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,18.0,0.0,6,21
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,8.0,3.0,2.0,7,54
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,3.0,2.0,6,62
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,5.0,4.0,9,96
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,20.0,5.0,1,11
+CONCEJAL,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,5.0,4.0,1,14
+ALCALDE,Célula 9 (GR),Giovanni,Lantaño,Torres,8.0,18.0,3.0,1,59
+GOBERNADOR REGIONAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,7.0,20.0,2.0,1,44
+ALCALDE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,7.0,19.0,1.0,4,22
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,16.0,1.0,6,49
+ALCALDE,Célula 8 (EN),Arnaldo Andrés,Fuentes,Cerda,9.0,7.0,2.0,7,66
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,8.0,11.0,3.0,2,27
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,22.0,4.0,1,112
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,12.0,1.0,4,40
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,30.0,5.0,5,32
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,6.0,5.0,5,122
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,7.0,3.0,8,66
+ALCALDE,Célula 9 (GR),Magdalen,Jara,Veloso,8.0,11.0,3.0,1,126
+ALCALDE,Célula 9 (GR),Magdalen,Jara,Veloso,9.0,8.0,3.0,2,103
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,9.0,6.0,1.0,4,47
+CONCEJAL,Célula 1 (MB),Hector,Guzman,Manterola ,8.0,19.0,4.0,9,35
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,17.0,2.0,2,14
+ALCALDE,Célula 6 (KM),Sergio Eugenio,Garcia,Vega,8.0,5.0,4.0,1,281
+ALCALDE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,3.0,2.0,1,10
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,28.0,3.0,10,25
+CONCEJAL,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,8.0,12.0,4.0,2,21
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,10.0,2.0,4,21
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,19.0,4.0,10,42
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,7.0,9.0,5.0,3,182
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,8.0,18.0,3.0,6,72
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,8.0,2.0,1.0,9,91
+CONCEJAL,Célula 2 (CA),Felipe,Canales,Guzman,8.0,3.0,2.0,3,8
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,19.0,1.0,4,10
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,7.0,9.0,5.0,3,80
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,27.0,5.0,4,24
+CONCEJAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,30.0,5.0,4,4
+ALCALDE,Célula 4 (JL),Katherine Fabiola, Vásquez,Muñoz ,8.0,16.0,1.0,1,0
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,8.0,0.0,3,16
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,26.0,1.0,5,26
+CONCEJAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,22.0,4.0,1,0
+GOBERNADOR REGIONAL,Célula 1 (MB),Jose Antonio,Andrades,Cerda,7.0,28.0,3.0,1,14
+GOBERNADOR REGIONAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,11.0,3.0,1,94
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,18.0,3.0,3,131
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,7.0,28.0,3.0,4,29
+CONCEJAL,Célula 7 (OC),Pablo,Castañeda,Curiqueo,8.0,6.0,5.0,4,66
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Eliana Trinidad,Tobar,Arteaga ,7.0,14.0,3.0,3,74
+CONCEJAL,Célula 5 (FD),Anabelle,Arnaiz,Alfaro,8.0,3.0,2.0,4,13
+GOBERNADOR REGIONAL,Célula 4 (JL),Paula Hisolet,Rodríguez,Hueitra,7.0,18.0,0.0,4,79
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,9.0,7.0,2.0,2,2
+ALCALDE,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,8.0,10.0,2.0,3,49
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,9.0,8.0,3.0,1,39
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,27.0,2.0,12,19
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,3.0,2.0,1,15
+CONVENCIONAL CONSTITUYENTE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,26.0,1.0,1,0
+CONCEJAL,Célula 7 (OC),Roberto Felipe,Manzur,Sepulveda,7.0,31.0,6.0,2,0
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,28.0,3.0,2,6
+ALCALDE,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,8.0,2.0,1.0,1,39
+ALCALDE,Célula 8 (EN),Valeska,Faundes,Lopez,7.0,19.0,1.0,2,8
+CONCEJAL,Célula 4 (JL),Jonathan Osvaldo,Esquivel,Muñoz,8.0,3.0,2.0,6,27
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,7.0,15.0,4.0,1,48
+CONCEJAL,Célula 5 (FD),María Griselda,Parraguez,Meneses,7.0,26.0,1.0,20,95
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,9.0,5.0,1,14
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,7.0,29.0,4.0,4,16
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,7.0,23.0,5.0,9,27
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,8.0,9.0,1.0,6,57
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,24.0,6.0,1,12
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,9.0,9.0,4.0,6,90
+CONVENCIONAL CONSTITUYENTE,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,14.0,3.0,2,150
+CONCEJAL,Célula 3 (SS),Elizabeth Yannet,Herrera,Johnson,7.0,28.0,3.0,12,40
+CONCEJAL,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,9.0,6.0,1.0,3,89
+ALCALDE,Célula 3 (SS),Marcelo Lino,Cima, Vargas,8.0,11.0,3.0,1,144
+CONCEJAL,Célula 6 (KM),Samantha Elizabeth,Tapia,Muñoz ,7.0,23.0,5.0,9,12
+ALCALDE,Célula 5 (FD),Genesis,Lopez,Fuentes,7.0,29.0,4.0,3,58
+ALCALDE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,15.0,0.0,1,0
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,4.0,3.0,5,100
+CONCEJAL,Célula 5 (FD),Aileen Debora,Gutiérrez,Huaiquivil,8.0,4.0,3.0,11,177
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,13.0,5.0,7,64
+CONCEJAL,Célula 9 (GR),JOSE DANIEL,ROBLES,ROBLES,8.0,4.0,3.0,11,77
+CONVENCIONAL CONSTITUYENTE,Célula 8 (EN),Juan, Medel,Leyton,7.0,13.0,2.0,3,51
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Yuber Alex,Reyes, Quena,7.0,14.0,3.0,1,63
+CONCEJAL,Célula 3 (SS),Jessica Marlene,Muñoz,Aguilar,8.0,5.0,4.0,3,10
+CONVENCIONAL CONSTITUYENTE,Célula 5 (FD),Diego,Retamal,Muñoz,7.0,12.0,1.0,4,143
+CONCEJAL,Célula 9 (GR),Madeleine Fernanda,Polanco,Ruiz,7.0,22.0,4.0,1,4
+CONCEJAL,Célula 3 (SS),Marcelo Lino,Cima, Vargas,9.0,8.0,3.0,1,0
+ALCALDE,Célula 7 (OC),Bianca,Suazo,Castro,8.0,2.0,1.0,1,11
+CONVENCIONAL CONSTITUYENTE,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,7.0,7.0,3.0,2,16
+ALCALDE,Célula 5 (FD),Victor Andres,Riquelme,Maturana,8.0,5.0,4.0,2,98
+CONCEJAL,Célula 3 (SS),Karina Salomé,Pacheco,Rojas,7.0,22.0,4.0,9,22
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,8.0,2.0,1.0,9,161
+CONCEJAL,Célula 8 (EN),Lorena del Pilar ,Vásquez,Caneo,9.0,3.0,5.0,1,17
+ALCALDE,Célula 1 (MB),Javier Gonzalo,Valdivia,Navarro,9.0,8.0,3.0,4,131
+CONCEJAL,Célula 2 (CA),Catherine Cecilia,Muga,Vidal ,8.0,3.0,2.0,5,32
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,12.0,4.0,8,46
+ALCALDE,Célula 2 (CA),Alfredo Elías,Aranda, Robles,7.0,26.0,1.0,1,228
+CONCEJAL,Célula 6 (KM),Erik Alejandro,Macaya,Abarca,8.0,17.0,2.0,6,47
+GOBERNADOR REGIONAL,Célula 4 (JL),Felipe Andrés,Sarabia,Puga,7.0,15.0,4.0,1,27
+CONCEJAL,Célula 8 (EN),Magaly,Riquelme,Bueno,8.0,13.0,5.0,8,58
+ALCALDE,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,24.0,2.0,1,46
+GOBERNADOR REGIONAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,18.0,0.0,3,34
+CONCEJAL,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,8.0,10.0,2.0,14,76
+CONCEJAL,Célula 3 (SS),Elizabeth,Alvarado,Pulido,8.0,9.0,1.0,1,42
+CONCEJAL,Célula 6 (KM),Daniela Solange,Mansilla,Andrade,7.0,28.0,3.0,11,42
+ALCALDE,Célula 1 (MB),Jose Antonio,Andrades,Cerda,8.0,11.0,3.0,1,15
+CONCEJAL,Célula 7 (OC),Gloria del Carmen,Gonzalez,Pino,9.0,7.0,2.0,3,15
+CONVENCIONAL CONSTITUYENTE,Célula 1 (MB),Hector,Guzman,Manterola ,7.0,5.0,1.0,2,4
+CONCEJAL,Célula 2 (CA),Jose Manuel,Celedón,Aguilar,7.0,23.0,5.0,6,22
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,20.0,2.0,3,2
+CONCEJAL,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,8.0,5.0,4.0,5,44
+CONCEJAL,Célula 9 (GR),Eugenio Carlos,Castro,Venegas,7.0,22.0,4.0,20,133
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,22.0,4.0,33,54
+ALCALDE,Célula 6 (KM),Daniel Ivan,Díaz,Sánchez,9.0,8.0,3.0,1,21
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,9.0,9.0,4.0,2,10
+ALCALDE,Célula 1 (MB),Pablo Gustavo,Abad,Salgado,8.0,2.0,1.0,2,36
+CONCEJAL,Célula 4 (JL),Myriam,Fuenzalida,Gonzalez,8.0,10.0,2.0,2,12
+CONCEJAL,Célula 5 (FD),Victor Andres,Riquelme,Maturana,7.0,30.0,5.0,13,47
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,2.0,1.0,7,91
+CONCEJAL,Célula 8 (EN),Alejandro,Riquelme,Aguilera,8.0,16.0,1.0,3,35
+CONVENCIONAL CONSTITUYENTE,Célula 2 (CA),Sergio Aurelio,Hernandez,Morales,7.0,6.0,2.0,3,28
+CONVENCIONAL CONSTITUYENTE,Célula 4 (JL),Javier Eduardo,Licanqueo,Calfiqueo ,7.0,6.0,2.0,3,12
+CONCEJAL,Célula 1 (MB),Francisca Valentina,Osses,Cordero,8.0,4.0,3.0,7,39
+CONCEJAL,Célula 7 (OC),Gloria, Muñoz ,Bustamante,7.0,27.0,2.0,10,29
+ALCALDE,Célula 1 (MB),Macarena,Molina,Sepulveda,8.0,3.0,2.0,3,40
+ALCALDE,Célula 2 (CA),Marcelo Anibal,Araya,Delgadillo,8.0,4.0,3.0,1,12
